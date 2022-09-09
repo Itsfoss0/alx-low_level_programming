@@ -25,4 +25,8 @@ if (n == 0)
 printf("%d is zero\n", n);
 }
 return (0);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3023fface0d188c56e2504b5deacb72cb940d33f
