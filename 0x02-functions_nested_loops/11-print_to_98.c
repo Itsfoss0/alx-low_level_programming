@@ -1,15 +1,25 @@
-#include "main.h"
+#include "holberton.h"
+#include <stdio.h>
 /**
- *print_to_98 - function to print all natural to 98
- *@n :- The number from which the function starts
- *Return - void (no return value from this function
+ * print_to_98 - print to 98
+ * @n : number to start from
+ * Return:0 or 1
  */
+
 void print_to_98(int n)
 {
-while (n <= 98)
+
+while (n < 98)
 {
-_putchar(n + "44" + '0');
-n++;
+	printf("%i, ", n);
+	n++;
 }
-return;
+while (n > 98)
+{
+	printf("%i, ", n);
+	n--;
+}
+
+printf("98");
+putchar('\n');
 }
