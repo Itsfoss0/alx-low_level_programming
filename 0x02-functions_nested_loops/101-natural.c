@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Return -Always 0 for sucess 1 for failure
+ * main - main block
+ * Description: computes and prints the sum of all the multiples of 3 or
+ * 5 below 1024 (excluded), followed by a new line
+ * Return: 0
  */
 int main(void)
 {
