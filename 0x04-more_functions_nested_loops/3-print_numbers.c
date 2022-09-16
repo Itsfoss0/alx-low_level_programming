@@ -1,15 +1,17 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
+
 /**
- *print_numbers - print numbers from 0-9
- *return: 0 (sucess) or 1(failure)
+ * print_numbers - prints the numbers, from 0 to 9, followed by a new line
+ * Return: void
  */
 
 void print_numbers(void)
 {
-for (int c = 48; c <= 58; c++)
-{
-putchar(c);
-}
-putchar('\n');
-}
+	int i;
+
+	for (i = 48; i < 58; i++)
+	{
+		putchar(i);
+	}
+	putchar('\n');
