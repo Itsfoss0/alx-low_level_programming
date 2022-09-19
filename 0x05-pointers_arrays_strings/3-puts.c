@@ -6,9 +6,9 @@
  */
 void _puts(char *str)
 {
-for (int pos = 0; str[pos] != '\0'; pos++)
+while (*str != '\0')
 {
-_putchar(str[pos]);
+_putchar(*str);
 }
-_putchar("\n");
+putchar("\n");
 }
