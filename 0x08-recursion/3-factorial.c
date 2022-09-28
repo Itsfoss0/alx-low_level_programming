@@ -2,17 +2,20 @@
 /**
  *factorial - return the factorial of a number
  *@n:number to find its factorial
- *return: fact(The resul)
+ * Return: If n > 0 - the factorial of n.
+ *         If n < 0 - 1 to indicate an error.
  */
 int factorial(n)
 {
-	int next;
+	int result = n;
 
-	if (n == 0)
+	if (n < 0)
+		return (-1);
+
+	else if (n >= 0 && n <= 1)
 		return (1);
-	else if (n < 0)
-	return (-1);
 
-	next = factorial(n - 1);
-	return (n * next);
+	result *= factorial(n - 1);
+
+	return (result);
 }
