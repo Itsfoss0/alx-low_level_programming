@@ -4,8 +4,6 @@
  * @s: pointer to a strint to print
  * return : void (Always)
  */
-
-*/
 void _puts_recursion(char *s)
 {
 	if (*s == '\0')
