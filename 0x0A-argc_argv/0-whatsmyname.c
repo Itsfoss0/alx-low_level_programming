@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * main - print the name of argv[0]
  * @argv: pointer to the string args
