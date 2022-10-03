@@ -3,4 +3,4 @@
 
 ### In this Session, the following concepts were coved. 
 1. [A brief history of the C programming Language](https://www.javatpoint.com/history-of-c-language)
-2. [The C compililation process](https://hackthedeveloper.com/c-program-compilation-process/)
+2. [The C program compililation Pipeline](https://hackthedeveloper.com/c-program-compilation-process/)
