@@ -10,3 +10,4 @@
 6. [Header files in C](https://stackoverflow.com/questions/204476/what-should-main-return-in-c-and-c)
 7. [Your first C program](https://www.javatpoint.com/first-c-program)
 8. [Keywords or reserved words in C](https://www.javatpoint.com/keywords-in-c)
+9. [Data types in C](https://byjus.com/gate/data-types-in-c/)
