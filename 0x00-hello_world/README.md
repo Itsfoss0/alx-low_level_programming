@@ -7,3 +7,4 @@
 3. [How to print out text to the screen (using printf() or puts() )](https://stackoverflow.com/questions/2454474/what-is-the-difference-between-printf-and-puts-in-c)
 4. [Betty coding style.... No its not what you think](https://github.com/holbertonschool/Betty/wiki)
 5. [How does the main() function influence the return value of a program?](https://stackoverflow.com/questions/204476/what-should-main-return-in-c-and-c)
+6. [Header files in C](https://stackoverflow.com/questions/204476/what-should-main-return-in-c-and-c)
