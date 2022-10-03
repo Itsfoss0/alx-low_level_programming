@@ -1,49 +1,39 @@
 #include "main.h"
 #include <stdlib.h>
+
 /**
- * _strlen - checks the length of a string
- * @s: string to check
+ * str_concat - Concatenates two strings.
+ * @s1: The string to be concatenated upon.
+ * @s2: The string to be concatenated to s1.
  *
- * Return: int length of the string
- */
-int _strlen(char *s)
-{
-	int length = 0;
-
-	while (s[length] != '\0')
-		length++;
-	return (length);
-}
-
-/**
- *str_concat - concatenate two strings
- *@s1: First string
- *@s2: Second string
- *Return: Pointer to memory location holding the new string
+ * Return: If concatenation fails - NULL.
+ *         Otherwise - a pointer the newly-allocated space in memory
+ *                     containing the concatenated strings.
  */
 char *str_concat(char *s1, char *s2)
 {
-int size1, size2, i;
-char *m;
+	char *concat_str;
+	int index, concat_index = 0, len = 0;
 
-if (s1 == NULL)
-	s1 = "\0";
-if (s2 == NULL)
-	s2 = "\0";
+	if (s1 == NULL)
+		s1 = "";
 
-size1 = _strlen(s1);
-size2 = _strlen(s2);
-m = malloc((size1 + size2) *sizeof(char) + 1);
-if (m == 0)
-	return (0);
+	if (s2 == NULL)
+		s2 = "";
 
-for (i = 0; i <= size1 + size2; i++)
-{
-	if (i < size1)
-		m[i] = s1[i];
-	else
-		m[i] = s2[i - size1];
-}
-m[i] = '\0';
-return (m);
+	for (index = 0; s1[index] || s2[index]; index++)
+		len++;
+
+	concat_str = malloc(sizeof(char) * len);
+
+	if (concat_str == NULL)
+		return (NULL);
+
+	for (index = 0; s1[index]; index++)
+		concat_str[concat_index++] = s1[index];
+
+	for (index = 0; s2[index]; index++)
+		concat_str[concat_index++] = s2[index];
+
+	return (concat_str);
 }
