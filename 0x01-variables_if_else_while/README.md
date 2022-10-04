@@ -28,6 +28,10 @@
 <li>What the the relational operators and how to use them</li>
 <li>What values are considered TRUE and FALSE in C</li>
 <li>What are the boolean operators and how to use them</li>
+<li>How to use the if, if ... else statements</li>
+<li>Special Operators</li>
+<li>Conditional Operators</li>
+<li>Special Operators</li>
 <li>Conditional Operators</li>
 <li>Special Operators</li>
 </ul>
