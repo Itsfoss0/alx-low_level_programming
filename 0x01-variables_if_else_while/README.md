@@ -14,7 +14,6 @@
 <li>Bitwise Operators</li>
 <li>Assignment Operators</li>
 <li>Conditional Operators</li>
-<li>Arithmetic Operators</li>
-<li>Arithmetic Operators</li>
+<li>Special Operators</li>
 </ul>
 </details>
