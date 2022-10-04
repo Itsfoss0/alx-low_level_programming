@@ -35,7 +35,7 @@
 <li>How to print the values of variables of type char, int, unsigned int with printf</li>
 <li>How to use the while loop</li>
 <li>How to use variables with the while loop</li>
-<li>How to assign values to variables</li>
+<li>How to print variables using printf</li>
 <li>How to print the values of variables of type char, int, unsigned int with printf</li>
 <li>How to use the while loop</li>
 </ul>
