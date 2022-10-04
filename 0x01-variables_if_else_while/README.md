@@ -12,7 +12,7 @@
 <li>Relational Operators</li>
 <li>Logical Operators</li>
 <li>Bitwise Operators</li>
-<li>Arithmetic Operators</li>
+<li>Assignment Operators</li>
 <li>Arithmetic Operators</li>
 <li>Arithmetic Operators</li>
 <li>Arithmetic Operators</li>
