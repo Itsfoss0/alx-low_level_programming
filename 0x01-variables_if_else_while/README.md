@@ -31,7 +31,7 @@
 <li>How to use the if, if ... else statements</li>
 <li>How to use comments</li>
 <li>How to declare variables of types char, int, unsigned int</li>
-<li>Special Operators</li>
+<li>How to assign values to variables</li>
 <li>Conditional Operators</li>
 <li>Special Operators</li>
 </ul>
