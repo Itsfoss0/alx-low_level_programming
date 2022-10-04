@@ -24,7 +24,7 @@
 <summary>Do you know these? .</summary>
 <ul>
 <li>What are the arithmetic operators and how to use them</li>
-<li>Relational Operators</li>
+<li>What are the logical operators (sometimes called boolean operators) and how to use them</li>
 <li>Logical Operators</li>
 <li>Bitwise Operators</li>
 <li>Assignment Operators</li>
