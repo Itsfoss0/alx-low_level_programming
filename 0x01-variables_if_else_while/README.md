@@ -32,7 +32,7 @@
 <li>How to use comments</li>
 <li>How to declare variables of types char, int, unsigned int</li>
 <li>How to assign values to variables</li>
-<li>Conditional Operators</li>
+<li>How to print the values of variables of type char, int, unsigned int with printf</li>
 <li>Special Operators</li>
 </ul>
 </details>
