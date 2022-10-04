@@ -6,6 +6,7 @@
 2. [Integral Data types in C](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
 3. [ Generaly Operators in C](https://www.studytonight.com/c/operators-in-c.php)
 4. [if function in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+5. [if else statemnts in C](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 <details>
 <summary>All Operators summarized here.</summary>
 <ul>
