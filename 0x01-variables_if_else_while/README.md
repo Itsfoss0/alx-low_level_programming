@@ -26,7 +26,7 @@
 <li>What are the arithmetic operators and how to use them</li>
 <li>What are the logical operators (sometimes called boolean operators) and how to use them</li>
 <li>What the the relational operators and how to use them</li>
-<li>Bitwise Operators</li>
+<li>What values are considered TRUE and FALSE in C</li>
 <li>Assignment Operators</li>
 <li>Conditional Operators</li>
 <li>Special Operators</li>
