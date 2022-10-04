@@ -7,6 +7,7 @@
 3. [ Generaly Operators in C](https://www.studytonight.com/c/operators-in-c.php)
 4. [if function in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 5. [if else statements in C](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+6. [While loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
 <details>
 <summary>All Operators summarized here.</summary>
 <ul>
