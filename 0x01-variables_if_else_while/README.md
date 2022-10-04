@@ -3,4 +3,4 @@
 ## Looping and branching in C
 #### In this session, the following concepts are to be covered. 
 1. [Keywords and Identifiers in C](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
-2. 
+2. [Integral Data types in C](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
