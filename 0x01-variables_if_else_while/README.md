@@ -37,7 +37,7 @@
 <li>How to use variables with the while loop</li>
 <li>How to print variables using printf</li>
 <li>What is the ASCII character set</li>
-<li>How to use the while loop</li>
+<li>What are the purpose of the gcc flags -m32 and -m64 </li>
 </ul>
 </details>
 
