@@ -7,7 +7,14 @@
 3. [ Generaly Operators in C](https://www.studytonight.com/c/operators-in-c.php)
 <details>
 <summary>All Operators summarized here.</summary>
-<ol>
+<ul>
 <li>Arithmetic Operators</li>
-</ol>
+<li>Relational Operators</li>
+<li>Logical Operators</li>
+<li>Bitwise Operators</li>
+<li>Arithmetic Operators</li>
+<li>Arithmetic Operators</li>
+<li>Arithmetic Operators</li>
+<li>Arithmetic Operators</li>
+</ul>
 </details>
