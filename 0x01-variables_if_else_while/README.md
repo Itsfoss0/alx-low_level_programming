@@ -33,7 +33,7 @@
 <li>How to declare variables of types char, int, unsigned int</li>
 <li>How to assign values to variables</li>
 <li>How to print the values of variables of type char, int, unsigned int with printf</li>
-<li>Special Operators</li>
+<li>How to use the while loop</li>
 </ul>
 </details>
 
