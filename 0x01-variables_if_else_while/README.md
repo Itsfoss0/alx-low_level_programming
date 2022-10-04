@@ -30,7 +30,7 @@
 <li>What are the boolean operators and how to use them</li>
 <li>How to use the if, if ... else statements</li>
 <li>How to use comments</li>
-<li>Conditional Operators</li>
+<li>How to declare variables of types char, int, unsigned int</li>
 <li>Special Operators</li>
 <li>Conditional Operators</li>
 <li>Special Operators</li>
