@@ -9,4 +9,10 @@
 
 <details>
 <summary>Learning objectives of this session. </summary>
+<ul>
+<li>What are nested loops and how to use them </li>
+<li>What are nested loops and how to use them </li>
+<li>What are nested loops and how to use them </li>
+<li>What are nested loops and how to use them </li>
+</ul>
 </details>
