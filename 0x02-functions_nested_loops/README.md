@@ -3,3 +3,4 @@
 ### In this session, the following concepts were covered.
 1. [Introduction to functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)
 2. [Nested while loops in C](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+3. [What are function prototypes in ](https://computer.howstuffworks.com/c13.htm)
