@@ -16,5 +16,6 @@
 <li>What is a prototype </li>
 <li>Scope of variables </li>
 <li>What is a prototype </li>
+<li>What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89</li>
 </ul>
 </details>
