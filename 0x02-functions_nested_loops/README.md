@@ -17,5 +17,6 @@
 <li>Scope of variables </li>
 <li>What is a prototype </li>
 <li>What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89</li>
+<li>What are header files and how to to use them with #include</li>
 </ul>
 </details>
