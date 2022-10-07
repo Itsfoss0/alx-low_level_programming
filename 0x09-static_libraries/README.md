@@ -9,3 +9,10 @@
 4. [Understanding C libraries ](https://medium.com/@lifebysech/everything-you-need-to-know-to-start-using-c-libraries-4644ca10d04c)
 5. [How are Dynamic libraries different from Static  libraries in C](https://www.linkedin.com/pulse/differences-between-static-dynamic-libraries-juan-david-tuta-botero/)
 6. [Static linking V/S dynamic linking](https://www.youtube.com/watch?v=eW5he5uFBNM)
+
+<details>
+<summary>Know the following by the end of the session.</summary>
+<ul>
+<li></li>
+</ul>
+</details>
