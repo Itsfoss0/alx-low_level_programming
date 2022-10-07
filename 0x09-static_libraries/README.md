@@ -6,3 +6,4 @@
 1. [What is a C library and what is it good for?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 3. [All in one about libraries](https://medium.com/@julianfrancor9/understanding-c-libraries-e5c321fd4aac)
+4. [Understanding C libraries ](https://medium.com/@lifebysech/everything-you-need-to-know-to-start-using-c-libraries-4644ca10d04c)
