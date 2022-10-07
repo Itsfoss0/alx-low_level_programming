@@ -4,4 +4,4 @@
 
 
 1. [What is a C library and what is it good for?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
-
+2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
