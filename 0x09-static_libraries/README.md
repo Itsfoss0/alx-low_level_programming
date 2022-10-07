@@ -7,3 +7,4 @@
 2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 3. [All in one about libraries](https://medium.com/@julianfrancor9/understanding-c-libraries-e5c321fd4aac)
 4. [Understanding C libraries ](https://medium.com/@lifebysech/everything-you-need-to-know-to-start-using-c-libraries-4644ca10d04c)
+5. [How are Dynamic libraries different from Static  libraries in C](https://www.linkedin.com/pulse/differences-between-static-dynamic-libraries-juan-david-tuta-botero/)
