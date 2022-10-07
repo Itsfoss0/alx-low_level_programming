@@ -16,5 +16,6 @@
 <li>The <code> ar </code> command and how to use it. </li>
 <li>The <code> ranlib </code> command and how to use it. </li>
 <li>The <code> nm </code> command and how to use it. </li>
+<li>What is a static library, how does it work, how to create one, and how to use it</li>
 </ul>
 </details>
