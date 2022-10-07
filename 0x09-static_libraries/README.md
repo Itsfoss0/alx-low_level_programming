@@ -13,6 +13,6 @@
 <details>
 <summary>Know the following by the end of the session.</summary>
 <ul>
-<li></li>
+<li>the <code> ar </code> command</li>
 </ul>
 </details>
