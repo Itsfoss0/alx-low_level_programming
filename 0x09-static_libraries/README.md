@@ -14,5 +14,7 @@
 <summary>Know the following by the end of the session.</summary>
 <ul>
 <li>The <code> ar </code> command and how to use it. </li>
+<li>The <code> ranlib </code> command and how to use it. </li>
+<li>The <code> ar </code> command and how to use it. </li>
 </ul>
 </details>
