@@ -10,4 +10,7 @@
 
 <details>
 <summary>Requirements for this session</summary>
+<ul>
+<li>What are pointers and how to use them</li>
+</ul>
 </details>
