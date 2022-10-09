@@ -11,6 +11,6 @@
 <details>
 <summary>Know these by the end of the session</summary>
 <ul>
-<li></li>
+<li>How to use arguments passed to your program</li>
 </ul>
 </details>
