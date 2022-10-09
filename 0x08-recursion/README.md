@@ -6,3 +6,8 @@
 3. [Recursion part 1](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
 4. [Recursion part 2](https://www.youtube.com/watch?v=XGxbXMP6k8k)
 5. [Recursion part 3](https://www.youtube.com/watch?v=7XiIS6HobNs)
+
+<details>
+<summary>Know these by the end of the session.</summary>
+<ul></ul>
+</details>
