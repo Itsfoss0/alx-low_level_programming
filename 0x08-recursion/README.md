@@ -9,5 +9,10 @@
 
 <details>
 <summary>Know these by the end of the session.</summary>
-<ul></ul>
+<ul>
+</li>What is recursion</li>
+</li>What is recursion</li>
+</li>What is recursion</li>
+</li>What is recursion</li>
+</ul>
 </details>
