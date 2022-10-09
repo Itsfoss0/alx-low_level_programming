@@ -7,3 +7,10 @@
 2. [argv and argc](http://crasseux.com/books/ctutorial/argc-and-argv.html)
 3. [What does argv and argc mean in C](https://www.youtube.com/watch?v=aP1ijjeZc24)
 4. [How to compile with unsed variables](https://www.google.com/webhp?q=unused+variable+C)
+
+<details>
+<summary>Know these by the end of the session</summary>
+<ul>
+<li></li>
+</ul>
+</details>
