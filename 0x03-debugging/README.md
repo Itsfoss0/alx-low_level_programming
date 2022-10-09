@@ -9,4 +9,8 @@
 <summary>Know the following by the end of this session </summary>
 <ul>
 <li>What is debugging</li>
+<li>What are some methods of debugging manually</li>
+<li>What is debugging</li>
+
+</ul>
 </details>
