@@ -11,7 +11,7 @@
 <summary>Know these by the end of the session.</summary>
 <ul>
 </li>What is recursion</li>
-</li>What is recursion</li>
+</li>How to implement recursion</li>
 </li>What is recursion</li>
 </li>What is recursion</li>
 </ul>
