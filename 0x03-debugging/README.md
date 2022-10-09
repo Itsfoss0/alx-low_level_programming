@@ -2,3 +2,5 @@
 
 ### In this session, we the following concepts are to be covered.
 1. [Debugging](https://en.wikipedia.org/wiki/Debugging)
+
+2. [Rubber Ducky Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
