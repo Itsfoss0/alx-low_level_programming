@@ -7,5 +7,6 @@
 
 <details>
 <summary>Know the following by the end of this session </summary>
-
+<ul>
+<li>What is debugging</li>
 </details>
