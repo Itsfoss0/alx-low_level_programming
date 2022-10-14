@@ -18,7 +18,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <ul>
 <li>Why C programming is awesome </li>
 <li>Who invented C</li>
-<li></li>
+<li>Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds</li>
 <li></li>
 <li></li>
 <li></li>
