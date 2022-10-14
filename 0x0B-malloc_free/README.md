@@ -15,5 +15,6 @@ By the end of this session, you should have the basic understanding of these.
 <li>What is the difference between automatic and dynamic allocation</li>
 <li>What is <code>malloc</code> and <code>free</code> and how to use them</li>
 <li>Why and when use malloc</li>
+<li>How to use valgrind to check for memory leak</li>
 </ul>
 </details>
