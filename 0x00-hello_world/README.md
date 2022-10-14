@@ -25,7 +25,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>What is main</li>
 <li>
 How to print text using printf, puts and putchar</li>
-<li></li>
+<li>How to get the size of a specific type using the unary operator sizeof</li>
 <li></li>
 <li></li>
 
