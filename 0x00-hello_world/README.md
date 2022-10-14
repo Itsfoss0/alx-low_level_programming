@@ -23,7 +23,8 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>What happens when you type gcc main.c</li>
 <li>What is an entry point</li>
 <li>What is main</li>
-<li></li>
+<li>
+How to print text using printf, puts and putchar</li>
 <li></li>
 <li></li>
 <li></li>
