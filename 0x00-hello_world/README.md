@@ -28,6 +28,7 @@ How to print text using <code>printf</code>, <code>puts</code> and <code>putchar
 <li>How to get the size of a specific type using the unary operator <code>sizeof</code></li>
 <li>What is the default program name when compiling with gcc</li>
 <li>What is the official C coding style and how to check your code with <code>betty-style<code></li>
+<li>How to find the right header to include in your source code when using a standard library function</li>
 
 </ul>
 </details>
