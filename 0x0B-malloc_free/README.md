@@ -13,5 +13,6 @@ By the end of this session, you should have the basic understanding of these.
 <summary>General objective</summary>
 <ul>
 <li>What is the difference between automatic and dynamic allocation</li>
+<li>What is <code>malloc</code> and <code>free</code> and how to use them</li>
 </ul>
 </details>
