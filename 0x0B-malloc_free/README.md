@@ -14,5 +14,6 @@ By the end of this session, you should have the basic understanding of these.
 <ul>
 <li>What is the difference between automatic and dynamic allocation</li>
 <li>What is <code>malloc</code> and <code>free</code> and how to use them</li>
+<li>Why and when use malloc</li>
 </ul>
 </details>
