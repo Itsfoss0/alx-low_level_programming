@@ -20,14 +20,14 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>Who invented C</li>
 <li>Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds</li>
 <li>How to compile using gcc</li>
-<li>What happens when you type gcc main.c</li>
+<li>What happens when you type <code>gcc main.c </code></li>
 <li>What is an entry point</li>
 <li>What is main</li>
 <li>
-How to print text using printf, puts and putchar</li>
-<li>How to get the size of a specific type using the unary operator sizeof</li>
+How to print text using <code>printf</code>, <code>puts</code> and <code>putchar</code></li>
+<li>How to get the size of a specific type using the unary operator <code>sizeof</code></li>
 <li>What is the default program name when compiling with gcc</li>
-<li></li>
+<li>What is the official C coding style and how to check your code with <code>betty-style<code></li>
 
 </ul>
 </details>
