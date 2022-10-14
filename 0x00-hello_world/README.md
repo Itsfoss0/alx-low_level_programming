@@ -26,7 +26,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>
 How to print text using printf, puts and putchar</li>
 <li>How to get the size of a specific type using the unary operator sizeof</li>
-<li></li>
+<li>What is the default program name when compiling with gcc</li>
 <li></li>
 
 </ul>
