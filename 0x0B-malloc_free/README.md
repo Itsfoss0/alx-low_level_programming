@@ -11,4 +11,7 @@ By the end of this session, you should have the basic understanding of these.
 
 <details>
 <summary>General objective</summary>
+<ul>
+<li>What is the difference between automatic and dynamic allocation</li>
+</ul>
 </details>
