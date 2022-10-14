@@ -21,7 +21,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds</li>
 <li>How to compile using gcc</li>
 <li>What happens when you type gcc main.c</li>
-<li></li>
+<li>What is an entry point</li>
 <li></li>
 <li></li>
 <li></li>
