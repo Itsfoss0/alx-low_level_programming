@@ -22,7 +22,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <li>How to compile using gcc</li>
 <li>What happens when you type gcc main.c</li>
 <li>What is an entry point</li>
-<li></li>
+<li>What is main</li>
 <li></li>
 <li></li>
 <li></li>
