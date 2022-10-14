@@ -17,7 +17,7 @@ By the end of the session, you should have a pretty solid understanding of the f
 <summary>General Objectives of the session</summary>
 <ul>
 <li>Why C programming is awesome </li>
-<li></li>
+<li>Who invented C</li>
 <li></li>
 <li></li>
 <li></li>
