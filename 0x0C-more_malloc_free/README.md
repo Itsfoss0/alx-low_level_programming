@@ -31,6 +31,12 @@ Below are the major difference between the two.
 <tr>
 <td>Allocation is done from the Heap Memory</td>
 <td>Allocation is done from the Stack Memory</td>
+</tr>
+
+<tr>
+<td>Allocated memory can be released and used again if not required anymore</td>
+<td>Memory allocated cannot be reused</td>
+</tr>
 </table>
 
 <details>
