@@ -60,5 +60,11 @@ The malloc funtion returns a void pointer, which begs the next question, [Should
 </details>
 
 <details>
-<summary>Memory allocation using <code>calloc()</code>
+<summary>Memory allocation using <code>calloc()</code></summary>
+<a href="https://www.youtube.com/watch?v=U2MqRhKzOgg">How to use calloc </a>
+<br/>
+The basic syntax when using calloc is 
+
+<code>ptr = (cast-type*)calloc(n, element-size);</code>
+
 </details>
