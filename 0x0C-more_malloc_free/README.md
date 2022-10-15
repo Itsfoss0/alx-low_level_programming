@@ -1,14 +1,10 @@
 # More on mallocs and free function in c 
-Before we have al look at static and dynamic memory allocation, What exactly is memory allocation in the first place? 
+Before we have a look at static and dynamic memory allocation, What exactly is memory allocation in the first place? 
 
-Memory allocation is the process of allocating physical or virtual memory space to computer programs and services
+Memory allocation is the process of allocating physical or virtual memory space to computer programs and services. Memory allocation is divided into two.
 
-
-So What exactly is <code>malloc()</code> and why is it important?
-The <code>malloc()</code> function is used to allocate a certain amount of memory durign execution of a program. 
-It will request a block of memory ( as specified in the malloc call) from the heap and once the request is granted, the Operating system will reserve the requested block of memory and malloc will return a pointer to the reserved space.
-
-When the amount of memory is no longer needed anymore, you need to return it to the operating system by calling <code>free()</code>
+1. Static memory allocarion.
+2. Dynamic memory allocation. 
 
 ## Dynamic VS static memory allocation in C.
 Below are the major difference between the two.
@@ -36,4 +32,9 @@ Below are the major difference between the two.
 <details>
 <summary>Dynamic memory allocation in C using <code>malloc()</code></summary>
 
+So What exactly is <code>malloc()</code> and why is it important?
+The <code>malloc()</code> function is used to allocate a certain amount of memory durign execution of a program. 
+It will request a block of memory ( as specified in the malloc call) from the heap and once the request is granted, the Operating system will reserve the requested block of memory and malloc will return a pointer to the reserved space.
+
+When the amount of memory is no longer needed anymore, you need to return it to the operating system by calling <code>free()</code>
 </details>
