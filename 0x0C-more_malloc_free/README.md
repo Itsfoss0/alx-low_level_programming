@@ -1,4 +1,8 @@
 # More on mallocs and free function in c 
+Before we have al look at static and dynamic memory allocation, What exactly is memory allocation in the first place? 
+
+Memory allocation is the process of allocating physical or virtual memory space to computer programs and services
+
 
 So What exactly is <code>malloc()</code> and why is it important?
 The <code>malloc()</code> function is used to allocate a certain amount of memory durign execution of a program. 
