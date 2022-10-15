@@ -58,3 +58,7 @@ The prototype for the malloc funtion is <code>void *malloc(size_t size);</code> 
 
 The malloc funtion returns a void pointer, which begs the next question, [Should I cast the result of malloc?](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
 </details>
+
+<details>
+<summary>Memory allocation using <code>calloc()</code>
+</details>
