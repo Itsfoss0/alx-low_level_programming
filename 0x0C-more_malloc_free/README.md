@@ -68,3 +68,7 @@ The basic syntax when using calloc is
 <code>ptr = (cast-type*)calloc(n, element-size);</code>
 
 </details>
+
+<br>
+
+[Difference between calloc and malloc ](https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-with-examples/)
