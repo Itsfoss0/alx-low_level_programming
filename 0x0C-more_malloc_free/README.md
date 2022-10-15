@@ -15,7 +15,8 @@ Below are the major difference between the two.
 <th>Static Memory allocation</th>
 </tr>
 <tr>
-
+<td>Memory is allocated at run time</td>
+<td>Memory is allocated at compile time</td>
 </tr>
 
 </table>
