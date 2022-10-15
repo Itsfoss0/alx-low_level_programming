@@ -6,7 +6,21 @@ It will request a block of memory ( as specified in the malloc call) from the he
 
 When the amount of memory is no longer needed anymore, you need to return it to the operating system by calling <code>free()</code>
 
+## Dynamic VS static memory allocation in C.
+Below are the major difference between the two.
+
+<table>
+<tr>
+<th>Dynamic Memory allocation</th>
+<th>Static Memory allocation</th>
+</tr>
+<tr>
+
+</tr>
+
+</table>
+
 <details>
-<summary>Dynamic memory allocation in C</summary>
+<summary>Dynamic memory allocation in C using <code>malloc()</code></summary>
 
 </details>
