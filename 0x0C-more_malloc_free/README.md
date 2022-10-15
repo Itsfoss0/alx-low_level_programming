@@ -18,6 +18,9 @@ Below are the major difference between the two.
 <td>Memory is allocated at run time</td>
 <td>Memory is allocated at compile time</td>
 </tr>
+<tr>
+<td>Memory can be increased while executing program</td>
+<td>Memory can't be increased while executing program</td>
 
 </table>
 
