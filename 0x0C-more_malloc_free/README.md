@@ -52,4 +52,8 @@ The <code>malloc()</code> function is used to allocate a certain amount of memor
 It will request a block of memory ( as specified in the malloc call) from the heap and once the request is granted, the Operating system will reserve the requested block of memory and malloc will return a pointer to the reserved space.
 
 When the amount of memory is no longer needed anymore, you need to return it to the operating system by calling <code>free()</code>
+
+The prototype for the malloc funtion is <code>void *malloc(size_t size);</code> where <code>size</code> is the amount of memory you want to allocate in bytes
+
+The malloc funtion returns a void pointer, which begs the next question, [Should I cast the result of malloc?](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
 </details>
