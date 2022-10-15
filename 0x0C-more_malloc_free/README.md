@@ -21,6 +21,11 @@ Below are the major difference between the two.
 <tr>
 <td>Memory can be increased while executing program</td>
 <td>Memory can't be increased while executing program</td>
+</tr>
+<tr>
+<td>Used in Linked List</td>
+<td>Used in Arrays </td>
+</tr>
 
 </table>
 
