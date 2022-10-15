@@ -1,9 +1,9 @@
 # More on mallocs and free function in c 
 Before we have a look at static and dynamic memory allocation, What exactly is memory allocation in the first place? 
 
-Memory allocation is the process of allocating physical or virtual memory space to computer programs and services. Memory allocation is divided into two.
+Memory allocation is the process of allocating physical or virtual memory space to computer programs and services. It divided into two.
 
-1. Static memory allocarion.
+1. Static memory allocation.
 2. Dynamic memory allocation. 
 
 ## Dynamic VS static memory allocation in C.
