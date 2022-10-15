@@ -37,6 +37,11 @@ Below are the major difference between the two.
 <td>Allocated memory can be released and used again if not required anymore</td>
 <td>Memory allocated cannot be reused</td>
 </tr>
+
+<tr>
+<td>More Efficient memory management method</td>
+<td>Less Efficient memory managenent method</td>
+</tr>
 </table>
 
 <details>
