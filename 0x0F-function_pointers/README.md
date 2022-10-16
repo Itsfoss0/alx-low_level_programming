@@ -12,3 +12,4 @@ Lets Dive into it.
 1. [Here is everything you need to know about pointers](https://boredzo.org/pointers/)
 2. [Funtion pointers in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
 3. [Pointer to  function ](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
+4. [Function pointers in Action](https://www.youtube.com/watch?v=ynYtgGUNelE)
