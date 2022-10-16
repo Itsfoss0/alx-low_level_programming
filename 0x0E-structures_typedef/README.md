@@ -19,6 +19,6 @@ Here is a curated list of resources to help you get started.
 After  Going throught the above resources ( and the ones you looked up yourself ofcourse  ^_^) Be sure to be able to explain to anyone using the <a href="https://fs.blog/feynman-learning-technique/">Feyman Learning Technique</a> without the help of Google the following.
 <ul>
 <li>What are structures, when, why and how to use them</li>
-<li>How to use typedef</li>
+<li>How to use typedef </li>
 </ul>
 </details>
