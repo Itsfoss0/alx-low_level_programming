@@ -18,5 +18,6 @@ Lets Dive into it.
 <details>
 <summary>General Session's Requirments</summary>
 <ul>
+<li>What are function pointers and how to use them?</li>
 </ul>
 </details>
