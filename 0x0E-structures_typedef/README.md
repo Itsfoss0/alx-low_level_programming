@@ -12,3 +12,8 @@ Here is a curated list of resources to help you get started.
 4. [The typedef statement](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
 5. [The art of C strucure packing](http://www.catb.org/esr/structure-packing/)
 6. [What does Google say about structures](https://www.google.com/search?q=Structures+in+C)
+
+<details>
+<summary>General Session Requirements </summary>
+
+</details>
