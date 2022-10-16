@@ -17,6 +17,8 @@ Lets Dive into it.
 
 <details>
 <summary>General Session's Requirments</summary>
+<br/>
+After going through the above resources, you should be able to explain to anyone without the help of Google the following.
 <ul>
 <li>What are function pointers and how to use them?</li>
 </ul>
