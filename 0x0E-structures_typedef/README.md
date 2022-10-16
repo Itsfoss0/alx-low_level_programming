@@ -8,4 +8,5 @@ So, what on earth are structures and why do we actually need them?
 2. [The struct keyword in C](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
 3. [How should you doucument your structures ](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
 4. [The typedef statement](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
+5. [The art of C strucure packing](http://www.catb.org/esr/structure-packing/)
 
