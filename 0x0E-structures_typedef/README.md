@@ -1,5 +1,5 @@
 <h1 align="center"> Structures and typedef</h1>
-
+<hr>
 In this session, we will explore structures and unions and the <code>typedef</code> statement in C.
 
 So, what on earth are structures and why do we actually need them?
@@ -15,5 +15,8 @@ Here is a curated list of resources to help you get started.
 
 <details>
 <summary>General Session Requirements </summary>
-
+<br/>
+After  Going throught the above resources ( and the ones you looked up yourself ofcourse  ^_^) Be sure to be able to explain to anyone using the <a href="https://fs.blog/feynman-learning-technique/">Feyman Learning Technique</a> without the help of Google the following.
+<ul>
+</ul>
 </details>
