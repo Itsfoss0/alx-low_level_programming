@@ -21,5 +21,6 @@ Lets Dive into it.
 After going through the above resources, you should be able to explain to anyone without the help of Google the following.
 <ul>
 <li>What are function pointers and how to use them?</li>
+<li>What does a function pointer exactly hold</li>
 </ul>
 </details>
