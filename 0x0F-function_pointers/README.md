@@ -1,2 +1,2 @@
-## Function pointers 
-Pointers that point to function and can be dereferenced to call the functions which they point to. 
+<h1 align='center'>Function Pointers</h1>
+<hr>
