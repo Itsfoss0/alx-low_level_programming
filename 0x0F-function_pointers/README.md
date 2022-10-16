@@ -14,3 +14,9 @@ Lets Dive into it.
 3. [Pointer to  function ](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
 4. [Function pointers in Action](https://www.youtube.com/watch?v=ynYtgGUNelE)
 5. [Why function pointers](https://www.youtube.com/watch?v=sxTFSDAZM8s)
+
+<details>
+<summary>General Session's Requirments</summary>
+<ul>
+</ul>
+</details>
