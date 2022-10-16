@@ -10,3 +10,4 @@ We mentioned that pointer are just variables that store the address of other var
 Lets Dive into it. 
 
 1. [Here is everything you need to know about pointers](https://boredzo.org/pointers/)
+2. [Funtion pointers in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
