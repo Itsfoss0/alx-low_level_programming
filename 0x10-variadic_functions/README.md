@@ -16,3 +16,8 @@ Have a look at the following resources
 
 
 After going through the above resources, you should be able to explain to anyone without the help of Goolge the following concepts.
+
+<details>
+<summary>Concepts Covered</summary>
+<li>What are variadic functions</li>
+</details>
