@@ -3,4 +3,8 @@
 
 In this session, we will have a look at variadic functions in C.
 
-By the end of the session, you should be able to explain to anyone without the help of Goolge the following concepts.
+Have a look at the following resources 
+
+1. [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
+
+After going throught the above resources, you should be able to explain to anyone without the help of Goolge the following concepts.
