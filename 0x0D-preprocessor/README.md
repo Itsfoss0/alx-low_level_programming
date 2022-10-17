@@ -1,1 +1,9 @@
- Preprocessing and compilation 
+<h1 align='center'>Preprocessor and Macros in C</h1>
+<hr/>
+
+In this session we will take a look at Macros and  peek under the hood what happens during the preprocessing phase of compilation  of a C program. 
+
+Lets have a look at the following 
+
+
+
