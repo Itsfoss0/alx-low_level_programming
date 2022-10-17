@@ -24,3 +24,16 @@ After going through the above resources, you should be able to explain to anyone
 <li>What are the most common predefined macros</li>
 <li>How to include guard your header files</li>
 </details>
+<br/>
+<details>
+<summary>Exercises</summary>
+Attempt the followin exercise. 
+<table>
+<th>Exercise</th>
+<th>Solution</th>
+<tr>
+<td></td>
+<tr>
+
+</table>
+</details>
