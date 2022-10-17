@@ -46,5 +46,8 @@ Attempt the following exercise.
 <td>Write a function-like macro ABS(x) that computes the absolute value of a number x.</td>
 <td><a href="3-function_like_macro.h">Solution</a></td>
 </tr>
+<tr>
+<td>Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.</td>
+<td><a href="4-sum.h">Solution</a></td>
 </table>
 </details>
