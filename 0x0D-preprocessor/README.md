@@ -26,14 +26,21 @@ After going through the above resources, you should be able to explain to anyone
 </details>
 <details>
 <summary>Exercises</summary>
-Attempt the followin exercise. 
+Attempt the following exercise. 
 <table>
+<tr>
 <th>Exercise</th>
 <th>Solution</th>
+</tr>
 <tr>
-<td>Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.</td>
+<td>Create a header file that defines a macro named SIZE as an abbreviation for the token 1024. </td>
 <td><a href="0-object_like_macro.h">Solution</a><td>
+</tr>
 <tr>
-
+<td>Create a header file that defines a macro named PI as an abbreviation for the token 3.14159265359.</td>
+<td><a href="1-pi.h">Solution</a></td>
+</tr>
+<tr>
+</tr>
 </table>
 </details>
