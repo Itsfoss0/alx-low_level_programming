@@ -22,5 +22,5 @@ Lets have a look at the following
 After going through the above resources, you should be able to explain to anyone the following without the help of Google
 <li>What are macros and how to use them</li>
 <li>What are the most common predefined macros</li>
-<li></li>
+<li>How to include guard your header files</li>
 </details>
