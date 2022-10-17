@@ -24,7 +24,6 @@ After going through the above resources, you should be able to explain to anyone
 <li>What are the most common predefined macros</li>
 <li>How to include guard your header files</li>
 </details>
-<br/>
 <details>
 <summary>Exercises</summary>
 Attempt the followin exercise. 
@@ -33,7 +32,7 @@ Attempt the followin exercise.
 <th>Solution</th>
 <tr>
 <td>Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.</td>
-<td><a href="0-object_like_macro.h">
+<td><a href="0-object_like_macro.h">Solution</a><td>
 <tr>
 
 </table>
