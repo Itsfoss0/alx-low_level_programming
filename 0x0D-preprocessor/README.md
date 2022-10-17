@@ -32,7 +32,8 @@ Attempt the followin exercise.
 <th>Exercise</th>
 <th>Solution</th>
 <tr>
-<td></td>
+<td>Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.</td>
+<td><a href="0-object_like_macro.h">
 <tr>
 
 </table>
