@@ -26,7 +26,7 @@ After going through the above resources, you should be able to explain to anyone
 </details>
 <details>
 <summary>Exercises</summary>
-Attempt the following exercise. 
+<p align=center">Attempt the following exercise.</p>
 <table>
 <tr>
 <th>Exercise</th>
