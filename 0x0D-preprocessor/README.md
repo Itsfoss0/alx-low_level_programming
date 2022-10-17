@@ -11,5 +11,5 @@ Lets have a look at the following
 4. [Macro Arguments](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Macro-Arguments.html#Macro-Arguments)
 5. [Preprocessor Directive](https://www.youtube.com/watch?v=X6HiYbY3Uak)
 6. [The C preprocessor](https://www.cprogramming.com/tutorial/cpreprocessor.html)
-
+7. [The standard Predefined macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Standard-Predefined-Macros.html#Standard-Predefined-Macros)
 
