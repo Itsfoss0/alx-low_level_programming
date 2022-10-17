@@ -20,5 +20,5 @@ Lets have a look at the following
 <summary>General Learning Objectives</summary>
 <br/>
 After going through the above resources, you should be able to explain to anyone the following without the help of Google
-<li></li>
+<li>What are macros and how to use them</li>
 </details>
