@@ -43,6 +43,8 @@ Attempt the following exercise.
 <td>Write a program that prints the name of the file it was compiled from, followed by a new line.</td>
 <td><a href="2-main.c">Solution</a></td>
 <tr>
+<td>Write a function-like macro ABS(x) that computes the absolute value of a number x.</td>
+<td><a href="3-function_like_macro.h"></a></td>
 </tr>
 </table>
 </details>
