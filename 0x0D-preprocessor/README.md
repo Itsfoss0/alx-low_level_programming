@@ -13,4 +13,5 @@ Lets have a look at the following
 6. [The C preprocessor](https://www.cprogramming.com/tutorial/cpreprocessor.html)
 7. [The standard Predefined macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Standard-Predefined-Macros.html#Standard-Predefined-Macros)
 8. [Include guard](https://en.wikipedia.org/wiki/Include_guard)
+9. [Common predefined Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Common-Predefined-Macros.html#Common-Predefined-Macros)
 
