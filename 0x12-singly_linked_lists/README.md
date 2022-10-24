@@ -26,5 +26,7 @@ After going through the above resource, you should be able to explain to anyone 
 
 <details>
 <summary>Learning objectives</summary>
-
+<ul>
+<li>When and why using linked lists vs arrays</li>
+</ul>
 </details>
