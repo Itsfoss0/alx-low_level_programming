@@ -1,11 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
 
-/** function prototypes here**/
-
-int _putchar(char);
-size_t print_list(const list_t *h);
-
+#include <stddef.h>
 
 /** structures here **/
 /**
@@ -23,3 +19,10 @@ typedef struct list_s
 	unsigned int len;
 	struct list_s *next;
 } list_t;
+
+/** function prototypes here**/
+
+int _putchar(char);
+size_t print_list(const list_t *h);
+
+#endif
