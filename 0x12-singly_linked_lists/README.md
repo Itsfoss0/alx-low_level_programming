@@ -18,3 +18,4 @@ Go through the following resources.
 
 1. [Singly Linked lists](https://www.youtube.com/watch?v=udapt4FGY20)
 2. [Youtube](https://www.youtube.com/results?search_query=linked+lists)
+3. [Google](https://www.google.com/search?q=linked+lists)
