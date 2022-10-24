@@ -10,3 +10,5 @@ Data structures can be divided into two -
 * Non linear Data structures 
 
 Linear Data structures are those in which the data elements are stored in a sequential form, where each element is linked to the adjacent one. 
+
+Non Linear Data strucutes on the other hand are Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only
