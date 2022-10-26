@@ -1,3 +1,8 @@
+#ifndef LISTS_H
+#define LISTS_H
+#include <string.h>
+#include <stdio.h>
+
 /** function prototypes here **/
 
 int _putchar(char);
@@ -15,3 +20,5 @@ typedef struct listint_s
 	int n;
 	struct listint_s *next;
 } listint_t;
+
+#endif
