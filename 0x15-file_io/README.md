@@ -14,3 +14,8 @@ man or help
 * ```read```
 * ```write```
 * ```dprintf```
+
+
+<details>
+<summary>General learning objectives</summary>
+</details>
