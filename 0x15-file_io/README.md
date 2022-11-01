@@ -25,5 +25,6 @@ man or help
 <li>What are file descriptors</li>
 <li>What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names</li>
 <li>How to use the I/O system calls <code>open</code>, <code>close</code>, <code>read</code> and <code>write</code></li>
+<li>What are and how to use the flags <code>O_RDONLY</code>, <code>O_WRONLY</code>, <code>O_RDWR</code></li>
 </ul>
 </details>
