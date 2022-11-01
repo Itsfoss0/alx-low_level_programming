@@ -24,6 +24,6 @@ man or help
 <li>How to create, open, close, read and write files</li>
 <li>What are file descriptors</li>
 <li>What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names</li>
-<li>Look for the right source of information online</li>
+<li>How to use the I/O system calls <code>open</code>, <code>close</code>, <code>read</code> and <code>write</code></li>
 </ul>
 </details>
