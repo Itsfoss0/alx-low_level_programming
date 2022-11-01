@@ -29,5 +29,6 @@ man or help
 
 <li>What are file permissions, and how to set them when creating a file with the <code>open</code> system call</li>
 <li>What is a system call</li>
+<li>What is the difference between a function and a system call</li>
 </ul>
 </details>
