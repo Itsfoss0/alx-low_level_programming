@@ -28,5 +28,6 @@ man or help
 <li>What are and how to use the flags <code>O_RDONLY</code>, <code>O_WRONLY</code>, <code>O_RDWR</code></li>
 
 <li>What are file permissions, and how to set them when creating a file with the <code>open</code> system call</li>
+<li>What is a system call</li>
 </ul>
 </details>
