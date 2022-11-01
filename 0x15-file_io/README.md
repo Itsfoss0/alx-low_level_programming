@@ -23,7 +23,7 @@ man or help
 <li>Look for the right source of information online</li>
 <li>How to create, open, close, read and write files</li>
 <li>What are file descriptors</li>
-<li>Look for the right source of information online</li>
+<li>What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names</li>
 <li>Look for the right source of information online</li>
 </ul>
 </details>
