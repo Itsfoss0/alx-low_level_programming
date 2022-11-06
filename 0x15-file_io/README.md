@@ -23,8 +23,8 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] How to create, open, close, read and write files
 * [X] What are file descriptors
 * [X] What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names
-<li>How to use the I/O system calls <code>open</code>, <code>close</code>, <code>read</code> and <code>write</code></li>
-<li>What are and how to use the flags <code>O_RDONLY</code>, <code>O_WRONLY</code>, <code>O_RDWR</code></li>
+* [X] How to use the I/O system calls ```open, close, read``` and ```write```
+* [X] What are and how to use the flags ```O_RDONLY```, ```O_WRONLY```, ```O_RDWR```
 
 <li>What are file permissions, and how to set them when creating a file with the <code>open</code> system call</li>
 <li>What is a system call</li>
