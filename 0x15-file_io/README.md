@@ -9,8 +9,7 @@ In this session, we will have a look at handling file input and output in C.
 
 2. [Handling files in C]()
 
-man or help 
-
+## Man / Help 
 * ```close```
 * ```open```
 * ```read```
