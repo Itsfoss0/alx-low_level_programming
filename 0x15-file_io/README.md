@@ -17,6 +17,7 @@ In this session, we will have a look at handling file input and output in C.
 * ```dprintf```
 
 ## Learning objectives 
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of google the following concepts. 
 
 <details>
 <summary>General learning objectives</summary>
