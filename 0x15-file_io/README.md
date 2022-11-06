@@ -19,11 +19,7 @@ In this session, we will have a look at handling file input and output in C.
 ## Learning objectives 
 By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of google the following concepts. 
 
-<details>
-<summary>General learning objectives</summary>
-
-<ul>
-<li>Look for the right source of information online</li>
+* [X] Look for the right source of information online
 <li>How to create, open, close, read and write files</li>
 <li>What are file descriptors</li>
 <li>What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names</li>
