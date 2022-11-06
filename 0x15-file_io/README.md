@@ -16,6 +16,7 @@ In this session, we will have a look at handling file input and output in C.
 * ```write```
 * ```dprintf```
 
+## Learning objectives 
 
 <details>
 <summary>General learning objectives</summary>
