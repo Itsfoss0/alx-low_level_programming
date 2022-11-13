@@ -16,7 +16,7 @@ Variadic functions are function that take a variable number of arguments. Say th
 4. [Variadic funtions in action](https://www.geeksforgeeks.org/variadic-functions-in-c/)
 5. [What Google says about variadic functions](https://www.google.com/search?q=variadic+functions+in+c)
 
-
+## Learning objectives 
 After going through the above resources, you should be able to explain to anyone without the help of Goolge the following concepts.
 
 <details>
