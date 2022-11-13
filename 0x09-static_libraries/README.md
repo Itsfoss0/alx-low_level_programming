@@ -12,12 +12,12 @@ In this session, we will expore  static libraries in C
 5. [How are Dynamic libraries different from Static  libraries in C](https://www.linkedin.com/pulse/differences-between-static-dynamic-libraries-juan-david-tuta-botero/)
 6. [Static linking V/S dynamic linking](https://www.youtube.com/watch?v=eW5he5uFBNM)
 
-<details>
-<summary>Know the following by the end of the session.</summary>
-<ul>
-<li>The <code> ar </code> command and how to use it. </li>
-<li>The <code> ranlib </code> command and how to use it. </li>
-<li>The <code> nm </code> command and how to use it. </li>
+
+## Learning objectives 
+
+* The <code> ar </code> command and how to use it.
+* The <code> ranlib </code> command and how to use it. 
+* The <code> nm </code> command and how to use it. 
 <li>What is a static library, how does it work, how to create one, and how to use it</li>
 <li>Basic usage of <code>ar</code>, <code>ranlib</code>, <code>nm</code></li>
 </ul>
