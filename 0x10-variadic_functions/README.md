@@ -19,9 +19,7 @@ Variadic functions are function that take a variable number of arguments. Say th
 ## Learning objectives 
 After going through the above resources, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Goolge the following concepts.
 
-<details>
-<summary>Concepts Covered</summary>
-<li>What are variadic functions</li>
-<li>How to use <code>va_start</code>, <code>va_arg</code>and <code>va_end</code> macros</li>
-<li>Why and how to use the <code>const</code> type qualifier</li>
-</details>
+
+* [X] What are variadic functions
+* [X] How to use <code>va_start</code>, <code>va_arg</code>and <code>va_end</code> macros
+* [X] Why and how to use the <code>const</code> type qualifier
