@@ -16,7 +16,7 @@ Linear Data structures are those in which the data elements are stored in a sequ
 Non Linear Data strucutes on the other hand are Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. Examples are __trees__ and __graphs__ 
 
 
-Go through the following resources. 
+## Resources  
 
 1. [Singly Linked lists](https://www.youtube.com/watch?v=udapt4FGY20)
 2. [Youtube](https://www.youtube.com/results?search_query=linked+lists)
