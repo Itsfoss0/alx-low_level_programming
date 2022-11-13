@@ -1,6 +1,7 @@
-<h1 align='center'>Singly Linked Lists</h1>
-<hr/>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> More Singly linked lists 
 
+## Intro
 In this session, we will look at Data structures and algorithims - Linked lists in particular. 
 
 Data structures by definition is a way of storing, structuring and organizing data so it can be accessed, traversed, updated, used  and searched efficiently depending on the task at hand.  
