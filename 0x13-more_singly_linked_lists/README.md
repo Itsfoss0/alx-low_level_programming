@@ -10,3 +10,5 @@ Take a look at the following resources
 2. [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 3. [Google](https://www.google.com/search?q=linked+lists)
 
+## Learning objecives
+By the end of this session, you should be able to [Explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of GOogle the following concepts.
