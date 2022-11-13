@@ -1,2 +1,5 @@
-## Even more pointers
-### Pointer that point to pointers that pointer to pointer that point to another value. Which means you can dereference a dereference to a deference to a ............ Yeah I didn't get it either :V
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Even more pointers arrays and strings 
+
+## Intro
+In this session, we will explore pointers, arrays and strings in detail
