@@ -2,7 +2,7 @@
 > Libraries 
 
 ## Intro
-In this session, we will expore c libraries 
+In this session, we will expore  static libraries in C
 
 1. [What is a C library and what is it good for?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
