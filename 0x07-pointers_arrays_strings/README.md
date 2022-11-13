@@ -2,4 +2,9 @@
 > Even more pointers arrays and strings 
 
 ## Intro
-In this session, we will explore pointers, arrays and strings in detail
+In this session, we will explore pointers, arrays and strings in more details
+
+## Resources 
+1. [Introduction to pointers](https://byjus.com/gate/pointers-in-c/)
+2. [Introduction to arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
+3. [Strings in C](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
