@@ -10,8 +10,7 @@ In this section, we will cover recursion
 4. [Recursion part 2](https://www.youtube.com/watch?v=XGxbXMP6k8k)
 5. [Recursion part 3](https://www.youtube.com/watch?v=7XiIS6HobNs)
 
-<details>
-<summary>Know these by the end of the session.</summary>
+## Learning objectives 
 <ul>
 <li>What is recursion</li>
 <li>How to implement recursion</li>
