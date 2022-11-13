@@ -1,9 +1,10 @@
-<![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 > Libraries 
 
 ## Intro
 In this session, we will expore  static libraries in C
 
+## Resources 
 1. [What is a C library and what is it good for?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 3. [All in one about libraries](https://medium.com/@julianfrancor9/understanding-c-libraries-e5c321fd4aac)
