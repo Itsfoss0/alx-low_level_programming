@@ -24,7 +24,7 @@ Non Linear Data strucutes on the other hand are Data structures where data eleme
 
 
 ## Learnig objectives 
-After going through the above resource, you should be able to explain to anyone without the help of google the following. 
+After going through the above resource, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of google the following. 
 
 <details>
 <summary>Learning objectives</summary>
