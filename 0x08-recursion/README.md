@@ -11,10 +11,7 @@ In this section, we will cover recursion
 5. [Recursion part 3](https://www.youtube.com/watch?v=7XiIS6HobNs)
 
 ## Learning objectives 
-<ul>
-<li>What is recursion</li>
-<li>How to implement recursion</li>
-<li>In what situations you should implement recursion</li>
-<li>In what situations you shouldn’t implement recursion</li>
-</ul>
-</details>
+* What is recursion
+* How to implement recursion
+* In what situations you should implement recursion
+* In what situations you shouldn’t implement recursion
