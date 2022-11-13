@@ -23,7 +23,7 @@ Non Linear Data strucutes on the other hand are Data structures where data eleme
 3. [Google](https://www.google.com/search?q=linked+lists)
 
 
-
+## Learnig objectives 
 After going through the above resource, you should be able to explain to anyone without the help of google the following. 
 
 <details>
