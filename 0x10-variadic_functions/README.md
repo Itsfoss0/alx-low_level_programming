@@ -1,6 +1,7 @@
-<h1 align="center">Variadic functions in C</h1>
-<hr/>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Variadic functions 
 
+## Intro
 In this session, we will have a look at variadic functions in C.
 
 So basically, variadic functions are function that take a variable number of arguments. Say they take argument whose number is not exacly know at the time of compilation. 
