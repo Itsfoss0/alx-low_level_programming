@@ -1,7 +1,8 @@
-<h1 align='center'>Libraries in C</h1>
+<![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Libraries 
 
-### in this session we'll cover  static and dynamic libraries in C, the similarities, differences and why are they even important?
-
+## Intro
+In this session, we will expore c libraries 
 
 1. [What is a C library and what is it good for?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
 2. [Building and using a static lib](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
