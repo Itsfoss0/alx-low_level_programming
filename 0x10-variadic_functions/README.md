@@ -8,7 +8,7 @@ In this session, we will have a look at variadic functions in C.
 Variadic functions are function that take a variable number of arguments. Say they take argument whose number is not exacly know at the time of compilation. 
 
 
-Have a look at the following resources 
+## Resources 
 
 1. [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
 2. [Variadic functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
