@@ -12,3 +12,6 @@ Take a look at the following resources
 
 ## Learning objecives
 By the end of this session, you should be able to [Explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of GOogle the following concepts.
+
+* [X] When and why using linked lists vs arrays
+* [X] How to build and use linked lists
