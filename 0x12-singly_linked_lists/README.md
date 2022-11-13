@@ -1,5 +1,5 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
-> More Singly linked lists 
+> Singly linked lists 
 
 ## Intro
 In this session, we will look at Data structures and algorithims - Linked lists in particular. 
