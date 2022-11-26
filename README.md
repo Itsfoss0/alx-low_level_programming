@@ -11,3 +11,4 @@
 * [Nested loops ](./0x04-more_functions_nested_loops/README.md)
 *[Arrays Pointer and Strings](./0x05-pointers_arrays_strings/README.md)
 * [More Pointers Arrays and Strings](./0x06-pointers_arrays_strings/README.md)
+* [Even more Pointers Arrays and strings](./0x07-pointers_arrays_strings/README.md)
