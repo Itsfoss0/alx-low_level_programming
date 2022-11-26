@@ -8,3 +8,4 @@
 * [Variables and Branching Control   Structures](./0x01-variables_if_else_while/README.md)
 * [Looping Control Structures and functions](./0x02-functions_nested_loops/README.md)
 * [Debugging](./0x03-debugging/README.md)
+* [Nested loops ](./0x04-more_functions_nested_loops/README.md)
