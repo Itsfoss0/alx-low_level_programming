@@ -13,6 +13,7 @@
 * [More Pointers Arrays and Strings](./0x06-pointers_arrays_strings/README.md)
 * [Even more Pointers Arrays and strings](./0x07-pointers_arrays_strings/README.md)
 * [Recursion](./0x08-recursion/README.md)
+* [Dynamic memory allocation](./0x0B-malloc_free/README.md)
 * [Static Libraries](./0x09-static_libraries/README.md)
 * [Argv and Argc](./0x0A-argc_argv/README.md)
 * [Variadic functions](./0x10-variadic_functions/README.md)
