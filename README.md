@@ -16,6 +16,7 @@
 * [Dynamic memory allocation](./0x0B-malloc_free/README.md)
 * [Static Libraries](./0x09-static_libraries/README.md)
 * [Pre processor](./0x0D-preprocessor/README.md)
+* [Structures and typedef](./0x0E-structures_typedef/README.md)
 * [Argv and Argc](./0x0A-argc_argv/README.md)
 * [Variadic functions](./0x10-variadic_functions/README.md)
 * [Singly Linked lists](./0x12-singly_linked_lists/README.md)
