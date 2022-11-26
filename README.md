@@ -11,6 +11,7 @@
 * [Nested loops ](./0x04-more_functions_nested_loops/README.md)
 *[Arrays Pointer and Strings](./0x05-pointers_arrays_strings/README.md)
 * [More Pointers Arrays and Strings](./0x06-pointers_arrays_strings/README.md)
+* [Function pointers](./0x0F-function_pointers/README.md)
 * [Even more Pointers Arrays and strings](./0x07-pointers_arrays_strings/README.md)
 * [Recursion](./0x08-recursion/README.md)
 * [Dynamic memory allocation](./0x0B-malloc_free/README.md)
