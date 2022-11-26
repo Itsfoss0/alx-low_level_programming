@@ -15,3 +15,4 @@
 * [Recursion](./0x08-recursion/README.md)
 * [Static Libraries](./0x09-static_libraries/README.md)
 * [Variadic functions](./0x10-variadic_functions/README.md)
+* [Singly Linked lists](./0x12-singly_linked_lists/README.md)
