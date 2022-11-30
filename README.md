@@ -1,4 +1,4 @@
-<h1 align='center'>Low Level Programming in C</h1>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 <hr>
 
