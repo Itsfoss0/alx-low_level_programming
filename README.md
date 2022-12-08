@@ -2,7 +2,7 @@
 
 <hr>
 
-## ALX low level programming in C tasks
+## ALX low level programming tasks in C
 
 Table of contents
 * [Introduction to programming in C - Hello World!](./0x00-hello_world/)
