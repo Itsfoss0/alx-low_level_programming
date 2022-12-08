@@ -24,3 +24,4 @@ Table of contents
 * [Singly Linked lists](./0x12-singly_linked_lists/README.md)
 * [More singly linked lists](./0x13-more_singly_linked_lists/README.md)
 * [Bit manipulation](./0x14-bit_manipulation/README.md)
+* [Doubly Linked lists](/0x17-doubly_linked_lists)
