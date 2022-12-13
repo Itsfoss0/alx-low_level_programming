@@ -9,6 +9,8 @@ In this section, we will explore debugging and debugging techniques
 2. [Rubber Ducky Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 
 ## Learning objectives 
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following concepts 
+
 * [X] What is debugging
 * [X] What are some methods of debugging manually
 * [X] How to read the error messages
