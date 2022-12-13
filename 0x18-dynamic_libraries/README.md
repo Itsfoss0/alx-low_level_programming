@@ -11,3 +11,6 @@ In this session we will have a look at dynamic linking in C
 4. [Youtube](https://www.youtube.com/results?search_query=dynamic+linking)
 
 ## Learning objectives 
+At the end of this project, you should be able to explain to anyone without the help of  Google the followin concepts
+
+* [X] What is a dynamic library, how does it work, how to create one, and how to use it
