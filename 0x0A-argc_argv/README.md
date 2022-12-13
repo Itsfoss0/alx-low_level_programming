@@ -1,6 +1,8 @@
-<h2>Command line arguments supplied in the main function<h2><b/><p>argc is the number of arguments while argv is a pointer to the string of arguments </p> 
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> argv argc 
 
-#### In this session, we'll cover ```argv``` and ```argc``` as used in C programming.
+## Intro 
+ In this session, we'll cover ```argv``` and ```argc``` as used in C programming.
 
 
 1. [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
