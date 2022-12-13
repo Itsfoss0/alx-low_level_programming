@@ -22,15 +22,15 @@ In this session, we will take a deep dive into introduction to programming in C
 - puts
 - putchar
 
+## Learning objectives 
 By the end of the session, you should have a pretty solid understanding of the following. 
-<details>
-<summary>General Objectives of the session</summary>
-<ul>
-<li>Why C programming is awesome </li>
-<li>Who invented C</li>
-<li>Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds</li>
-<li>How to compile using gcc</li>
-<li>What happens when you type <code>gcc main.c </code></li>
+
+
+* [X] Why C programming is awesome 
+* [X] Who invented C
+* [X] Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
+* [X] How to compile using gcc</li>
+* [X] What happens when you type <code>gcc main.c </code>
 <li>What is an entry point</li>
 <li>What is main</li>
 <li>
