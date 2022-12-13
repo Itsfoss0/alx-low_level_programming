@@ -26,3 +26,6 @@ After going through the above resources, you should be able to [explain to anyon
 * [X] What is <code>malloc</code> and <code>free</code> and how to use them
 * [X] Why and when use malloc
 * [X] How to use valgrind to check for memory leak
+
+## More info
+You can learn about calloc and realloc.
