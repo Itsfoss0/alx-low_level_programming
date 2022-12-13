@@ -2,3 +2,6 @@
 > Bit manipulation
 
 ## Intro
+In this section, we will explore bit manipulation in C. 
+
+## Resources 
