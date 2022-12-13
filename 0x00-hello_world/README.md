@@ -37,7 +37,4 @@ By the end of the session, you should have a pretty solid understanding of the f
 * [X] How to get the size of a specific type using the unary operator <code>sizeof</code>
 * [X] What is the default program name when compiling with gcc
 * [X] What is the official C coding style and how to check your code with <code>betty-style<code>
-<li>How to find the right header to include in your source code when using a standard library function</li>
-
-</ul>
-</details>
+* [X] How to find the right header to include in your source code when using a standard library function
