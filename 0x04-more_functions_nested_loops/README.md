@@ -14,3 +14,11 @@ In this section, we will explore functions and nested loops in detail
 ## Learning objectives
 
 By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following concepts 
+
+* [X] What are nested loops and how to use them
+* [X] What is the difference between a declaration and a definition of a function
+* [X] What is a prototype
+* [X] Scope of variables
+* [X] What are the ```gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89```
+* [X] What are header files and how to to use them with #include
+
