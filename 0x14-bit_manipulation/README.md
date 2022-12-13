@@ -10,3 +10,4 @@ In this section, we will explore bit manipulation in C.
 
 ## Learning Objectives 
 * [X] Look for the right source of information without too much help
+* [X] How to manipulate bits and use bitwise operators
