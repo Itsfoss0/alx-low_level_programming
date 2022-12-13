@@ -1,1 +1,4 @@
-## Bit manipulation in C
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Bit manipulation
+
+## Intro
