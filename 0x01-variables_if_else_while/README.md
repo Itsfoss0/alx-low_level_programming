@@ -1,7 +1,7 @@
-<h1 align=center>Program control structures in C - If statements</h1>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+>Program control structures - if else  
 
-## Looping and branching in C
-#### In this session, the following concepts are to be covered. 
+## Intro 
 1. [Keywords and Identifiers in C](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 2. [Integral Data types in C](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
 3. [ Generaly Operators in C](https://www.studytonight.com/c/operators-in-c.php)
