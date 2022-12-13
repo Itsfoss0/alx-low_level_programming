@@ -14,4 +14,5 @@ In this session we will have a look at dynamic linking in C
 At the end of this project, you should be able to explain to anyone without the help of  Google the followin concepts
 
 * [X] What is a dynamic library, how does it work, how to create one, and how to use it
-* [X] What is the environment variable $LD_LIBRARY_PATH and how to use it
+* [X] What is the environment variable ```$LD_LIBRARY_PATH``` and how to use it
+* [X] What are the differences between static and shared libraries
