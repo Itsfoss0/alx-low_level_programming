@@ -11,3 +11,5 @@ In this session, we will take a look at doubly linked data structure
 
 ## Learning objectives
 By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of google the following concepts. 
+
+* [X] What is a doubly linked list
