@@ -13,9 +13,9 @@
 
 
 ## Learning objectives 
-<ul>
-<li>How to use arguments passed to your program</li>
-<li>What are two prototypes of main that you know of, and in which case do you use one or the other</li>
-<li>How to use <code>__attribute__((unused))</code> or <code>(void)</code> to compile functions with unused variables or parameters</li>
-</ul>
-</details>
+After going through the above resources, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Goolge the following concepts.
+
+
+* [X] How to use arguments passed to your program
+* [X] What are two prototypes of main that you know of, and in which case do you use one or the other
+* [X] How to use <code>__attribute__((unused))</code> or <code>(void)</code> to compile functions with unused variables or parameters
