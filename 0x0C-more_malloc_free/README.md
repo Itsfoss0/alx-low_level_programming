@@ -77,4 +77,5 @@ The basic syntax when using calloc is
 
 <br>
 
+## Resources 
 [Difference between calloc and malloc ](https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-with-examples/)
