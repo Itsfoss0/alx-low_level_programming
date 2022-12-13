@@ -10,3 +10,7 @@ In this section, we will explore functions and nested loops in detail
 3. [Youtube](https://www.youtube.com/watch?v=qMlnFwYdqIw)
 4. [Function prototypes](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
 5. [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+
+## Learning objectives
+
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following concepts 
