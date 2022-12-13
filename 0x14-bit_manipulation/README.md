@@ -7,3 +7,6 @@ In this section, we will explore bit manipulation in C.
 ## Resources 
 1. [Google](https://www.google.com/webhp?q=bit+manipulation+C)
 2. [Youtube](https://www.youtube.com/results?search_query=bitwise+operators+in+c)
+
+## Learning Objectives 
+* [X] Look for the right source of information without too much help
