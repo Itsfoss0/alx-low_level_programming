@@ -1,6 +1,10 @@
-## Debbuging is like being a detective in a crime movie where you are also the murdurer
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+>Debuging is like being a detective in a crime movie where you are also the murderer
 
-### In this session, we the following concepts are to be covered.
+## Intro 
+In this section, we will explore debugging and debugging techniques 
+
+## Resources 
 1. [Debugging](https://en.wikipedia.org/wiki/Debugging)
 
 2. [Rubber Ducky Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
