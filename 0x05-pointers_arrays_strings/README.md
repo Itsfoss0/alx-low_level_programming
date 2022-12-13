@@ -11,9 +11,9 @@ In this session, we will explore pointers, arrays and strings.
 
 
 ## Learning objectives 
-<li>What are pointers and how to use them</li>
-<li>What are arrays and how to use them</li>
-<li>What are the differences between pointers and arrays</li>
-<li>How to use strings and how to manipulate them</li>
-<li>Scope of variables</li>
-</ul>
+* [X] What are pointers and how to use them
+* [X] What are arrays and how to use them
+* [X] What are the differences between pointers and arrays
+* [X] How to use strings and how to manipulate them
+* [X] Scope of variables
+
