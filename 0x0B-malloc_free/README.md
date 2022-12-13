@@ -2,9 +2,9 @@
 > Dynamic memory allocation 
 
 ## Intro 
-
  Dynamic memory allocation using malloc and free in C
 
+## About 
 In this session, we well conver dyanamic memory allocation in C, why is it important and how is it implemted.
 Buckle up, its gonna be a long rideee!!!!
 
