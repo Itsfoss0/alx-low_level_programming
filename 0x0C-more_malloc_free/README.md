@@ -1,4 +1,10 @@
-# More on mallocs and free function in c 
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> More on dynamic memory management 
+
+## Intro
+In this session, we will explore memory mangement in more details 
+
+## About 
 Before we have a look at static and dynamic memory allocation, What exactly is memory allocation in the first place? 
 
 Memory allocation is the process of allocating physical or virtual memory space to computer programs and services. It divided into two.
