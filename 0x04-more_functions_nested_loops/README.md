@@ -5,3 +5,5 @@
 In this section, we will explore functions and nested loops in detail
 
 ## Resources 
+1. [Nested While loop](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+2. [Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
