@@ -11,8 +11,8 @@ In this section, we will take a look at program control structures  - branching 
 4. [if function in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 5. [if else statements in C](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 6. [While loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
-<details>
-<summary>All Operators summarized here.</summary>
+
+## All Operators  
 <ul>
 <li>Arithmetic Operators</li>
 <li>Relational Operators</li>
@@ -22,12 +22,11 @@ In this section, we will take a look at program control structures  - branching 
 <li>Conditional Operators</li>
 <li>Special Operators</li>
 </ul>
-</details>
-<details>
-<summary>Do you know these? .</summary>
-<ul>
-<li>What are the arithmetic operators and how to use them</li>
-<li>What are the logical operators (sometimes called boolean operators) and how to use them</li>
+
+## Learning objectives 
+
+* [X] What are the arithmetic operators and how to use them
+* [X] What are the logical operators (sometimes called boolean operators) and how to use them 
 <li>What the the relational operators and how to use them</li>
 <li>What values are considered TRUE and FALSE in C</li>
 <li>What are the boolean operators and how to use them</li>
