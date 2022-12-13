@@ -15,6 +15,13 @@ In this session, we will take a deep dive into introduction to programming in C
 8. [Keywords or reserved words in C](https://www.javatpoint.com/keywords-in-c)
 9. [Data types in C](https://byjus.com/gate/data-types-in-c/)
 
+
+## Man/Help 
+- gcc
+- printf
+- puts
+- putchar
+
 By the end of the session, you should have a pretty solid understanding of the following. 
 <details>
 <summary>General Objectives of the session</summary>
