@@ -14,3 +14,4 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 
 * [X] What is a doubly linked list
 * [X] How to use doubly linked lists
+* [X] Start to look for the right source of information without too much help
