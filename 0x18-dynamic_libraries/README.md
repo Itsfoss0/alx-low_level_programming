@@ -10,6 +10,11 @@ In this session we will have a look at dynamic linking in C
 3. [Creating dynamic libraries](https://www.google.com/search?q=linux+create+dynamic+library)
 4. [Youtube](https://www.youtube.com/results?search_query=dynamic+linking)
 
+## Man / Help 
+- nm
+- ldd
+- ldconfig
+
 ## Learning objectives 
 At the end of this project, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of  Google the following concepts
 
