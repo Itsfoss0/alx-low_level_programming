@@ -27,19 +27,17 @@ In this section, we will take a look at program control structures  - branching 
 
 * [X] What are the arithmetic operators and how to use them
 * [X] What are the logical operators (sometimes called boolean operators) and how to use them 
-<li>What the the relational operators and how to use them</li>
-<li>What values are considered TRUE and FALSE in C</li>
-<li>What are the boolean operators and how to use them</li>
-<li>How to use the if, if ... else statements</li>
-<li>How to use comments</li>
-<li>How to declare variables of types char, int, unsigned int</li>
-<li>How to assign values to variables</li>
-<li>How to print the values of variables of type char, int, unsigned int with printf</li>
-<li>How to use the while loop</li>
-<li>How to use variables with the while loop</li>
-<li>How to print variables using printf</li>
-<li>What is the ASCII character set</li>
-<li>What are the purpose of the gcc flags -m32 and -m64 </li>
-</ul>
-</details>
+* [X] What the the relational operators and how to use them
+* [X] What values are considered TRUE and FALSE in C
+* [X] What are the boolean operators and how to use them
+* [X] How to use the if, if ... else statements
+* [X] How to use comments
+* [X] How to declare variables of types char, int, unsigned int
+* [X] How to assign values to variables
+* [X] How to print the values of variables of type char, int, unsigned int with printf
+* [X] How to use the while loop
+* [X] How to use variables with the while loop
+* [X] How to print variables using printf
+* [X] What is the ASCII character set
+* [X] What are the purpose of the gcc flags ```-m32 and -m64```
 
