@@ -79,3 +79,10 @@ The basic syntax when using calloc is
 
 ## Resources 
 [Difference between calloc and malloc ](https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-with-examples/)
+
+## Man/Help
+
+- exit(3)
+- calloc
+- malloc
+- free 
