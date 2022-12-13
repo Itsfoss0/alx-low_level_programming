@@ -29,15 +29,14 @@ By the end of the session, you should have a pretty solid understanding of the f
 * [X] Why C programming is awesome 
 * [X] Who invented C
 * [X] Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
-* [X] How to compile using gcc</li>
+* [X] How to compile using gcc
 * [X] What happens when you type <code>gcc main.c </code>
-<li>What is an entry point</li>
-<li>What is main</li>
-<li>
-How to print text using <code>printf</code>, <code>puts</code> and <code>putchar</code></li>
-<li>How to get the size of a specific type using the unary operator <code>sizeof</code></li>
-<li>What is the default program name when compiling with gcc</li>
-<li>What is the official C coding style and how to check your code with <code>betty-style<code></li>
+* [X] What is an entry point
+* [X] What is main
+* [X] How to print text using <code>printf</code>, <code>puts</code> and <code>putchar</code>
+* [X] How to get the size of a specific type using the unary operator <code>sizeof</code>
+* [X] What is the default program name when compiling with gcc
+* [X] What is the official C coding style and how to check your code with <code>betty-style<code>
 <li>How to find the right header to include in your source code when using a standard library function</li>
 
 </ul>
