@@ -7,7 +7,7 @@ In this session, we will have a look at handling file input and output in C.
 ## Resources 
 1. [File Desriptor](https://en.wikipedia.org/wiki/File_descriptor)
 
-2. [Handling files in C]()
+2. [Handling files in C](https://byjus.com/gate/file-handling-in-c/)
 
 ## Man / Help 
 * ```close```
