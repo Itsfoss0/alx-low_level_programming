@@ -20,12 +20,9 @@ Buckle up, its gonna be a long rideee!!!!
 ## Learning objectives 
 After going through the above resources, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Goolge the following concepts.
 
-<details>
-<summary>General objective</summary>
-<ul>
-<li>What is the difference between automatic and dynamic allocation</li>
-<li>What is <code>malloc</code> and <code>free</code> and how to use them</li>
-<li>Why and when use malloc</li>
-<li>How to use valgrind to check for memory leak</li>
-</ul>
-</details>
+
+
+* [X] What is the difference between automatic and dynamic allocation</li>
+* [X] What is <code>malloc</code> and <code>free</code> and how to use them
+* [X] Why and when use malloc
+* [X] How to use valgrind to check for memory leak
