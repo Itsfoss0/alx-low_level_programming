@@ -1,9 +1,11 @@
-<h1 align='center'>Preprocessor and Macros in C</h1>
-<hr/>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Preprocessor and macros 
 
-In this session we will take a look at Macros and  peek under the hood what happens during the preprocessing phase of compilation  of a C program. 
+## Intro 
 
-Lets have a look at the following 
+In this session we will take a look at Macros are and take a  peek at  what happens under the hood  during the preprocessing phase of compilation  of a C program. 
+
+
 
 1. [Understanding the C compilation process](https://www.youtube.com/watch?v=eW5he5uFBNM)
 2. [Object like macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Object-like-Macros.html#Object-like-Macros)
