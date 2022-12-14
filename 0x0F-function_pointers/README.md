@@ -1,6 +1,7 @@
-<h1 align='center'>Function Pointers</h1>
-<hr>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Function Pointers
 
+## Intro 
 In this session, we will look at function pointers.
 
 Remember in one of our [Sessions](https://github.com/Itsfoss0/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings) we introduced pointers.
