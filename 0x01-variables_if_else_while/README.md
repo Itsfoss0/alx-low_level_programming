@@ -40,4 +40,3 @@ In this section, we will take a look at program control structures  - branching 
 * [X] How to print variables using printf
 * [X] What is the ASCII character set
 * [X] What are the purpose of the gcc flags ```-m32 and -m64```
-
