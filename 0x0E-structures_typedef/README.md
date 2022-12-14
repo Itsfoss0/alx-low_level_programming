@@ -1,5 +1,7 @@
-<h1 align="center"> Structures and typedef</h1>
-<hr>
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> Structures and unions  
+
+## Intro 
 In this session, we will explore structures and unions and the <code>typedef</code> statement in C.
 
 So, what on earth are structures and why do we actually need them?
