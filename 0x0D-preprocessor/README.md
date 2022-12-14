@@ -23,31 +23,4 @@ At the end of this session, you should be able to [explain to anyone](https://fs
 
 * [X] What are macros and how to use them
 * [X] What are the most common predefined macros
-* [X] How to include guard your header files</
-<details>
-<summary>Exercises</summary>
-<p align="center">Attempt the following exercise.</p>
-<table>
-<tr>
-<th>Exercise</th>
-<th>Solution</th>
-</tr>
-<tr>
-<td>Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.</td>
-<td><a href="0-object_like_macro.h">Solution</a><td>
-</tr>
-<tr>
-<td>Create a header file that defines a macro named PI as an abbreviation for the token 3.14159265359.</td>
-<td><a href="1-pi.h">Solution</a></td>
-</tr>
-<td>Write a program that prints the name of the file it was compiled from, followed by a new line.</td>
-<td><a href="2-main.c">Solution</a></td>
-<tr>
-<td>Write a function-like macro ABS(x) that computes the absolute value of a number x.</td>
-<td><a href="3-function_like_macro.h">Solution</a></td>
-</tr>
-<tr>
-<td>Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.</td>
-<td><a href="4-sum.h">Solution</a></td>
-</table>
-</details>
+* [X] How to include guard your header files
