@@ -21,4 +21,3 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] Scope of variables
 * [X] What are the ```gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89```
 * [X] What are header files and how to to use them with #include
-
