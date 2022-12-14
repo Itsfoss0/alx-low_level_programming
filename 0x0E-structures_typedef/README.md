@@ -16,8 +16,6 @@ Here is a curated list of resources to help you get started.
 ## Learning objectives 
 At the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) the following concepts without the help of Google
 
-<ul>
-<li>What are structures, when, why and how to use them</li>
-<li>How to use typedef </li>
-</ul>
-</details>
+
+* [X] What are structures, when, why and how to use them
+* [X] How to use typedef
