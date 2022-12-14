@@ -22,4 +22,4 @@ After going through the above resources, you should be able to [explain to anyon
 
 * [X] What are variadic functions
 * [X] How to use <code>va_start</code>, <code>va_arg</code>and <code>va_end</code> macros
-* [X] Why and how to use the <code>const</code> type qualifier
+* [X] Why and how to use the <code>const</code>type qualifier
