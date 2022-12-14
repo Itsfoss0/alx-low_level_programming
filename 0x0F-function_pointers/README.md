@@ -22,9 +22,6 @@ Lets Dive into it.
 ## Learning objectives 
 At the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) the following concepts without the help of Google
 
-<ul>
-<li>What are function pointers and how to use them?</li>
-<li>What does a function pointer exactly hold?</li>
-<li>Where does a function pointer point to in the virtual memory?</li>
-</ul>
-</details>
+* [X] What are function pointers and how to use them
+* [X] What does a function pointer exactly hold
+* [X] Where does a function pointer point to in the virtual memory
