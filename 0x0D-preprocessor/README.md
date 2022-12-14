@@ -19,7 +19,8 @@ In this session we will take a look at Macros are and take a  peek at  what happ
 
 
 ## Learning objectives 
-After going through the above resources, you should be able to explain to anyone the following without the help of Google
+At the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) the following concepts without the help of Google
+
 <li>What are macros and how to use them</li>
 <li>What are the most common predefined macros</li>
 <li>How to include guard your header files</li>
