@@ -41,3 +41,9 @@ is open a function or a system call? (select all valid answers)
 * [X] it’s a sytem call
 * [ ] it’s a kernel routine
 * [ ] it's a function provided by the kernel
+
+#### Question #5
+What is the unistd symbolic constant for the standard output?
+* [ ] STDERR_FILENO
+* [ ] STDIN_FILENO
+* [X] STDOUT_FILENO
