@@ -20,3 +20,10 @@ What happens if you try to write “Best” to the standard input on Ubuntu 14.0
 * [X] The text will be printed on the terminal on the standard output
 > #### Tips:
 > Just try it:)
+
+#### Question #2
+What is the ```oflag``` used to open a file in mode read + write?
+
+* [X] ```O_RDWR```
+* [ ] ```O_WRONLY```
+* [ ] ```O_RDONLY```
