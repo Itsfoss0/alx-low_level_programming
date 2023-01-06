@@ -98,3 +98,10 @@ What is the return value of the system call ```open``` if it fails?
 * [ ] 0
 * [X] -1
 
+#### Question #11
+What is the correct combination of ```oflags``` used to open a file with the mode write only, create it if it doesn’t exist and append new content at the end if it already exists?
+* [X] ```O_WRONLY | O_CREAT | O_APPEND```
+* [ ] ```O_WRONLY```
+* [ ] ```O_WRONLY | O_CREAT | O_EXCL```
+* [ ] ```O_RDWR | O_CREAT | O_APPEND```
+
