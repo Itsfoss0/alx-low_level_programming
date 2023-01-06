@@ -105,3 +105,10 @@ What is the correct combination of ```oflags``` used to open a file with the mod
 * [ ] ```O_WRONLY | O_CREAT | O_EXCL```
 * [ ] ```O_RDWR | O_CREAT | O_APPEND```
 
+#### Question #12
+Without context, on Ubuntu 14.04 LTS, ```write``` is a … (please select all correct answers):
+* [ ] library call
+* [X] executable
+* [X] system call
+* [ ] kernel routine
+* [ ] game
