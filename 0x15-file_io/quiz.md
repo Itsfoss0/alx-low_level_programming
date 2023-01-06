@@ -112,3 +112,8 @@ Without context, on Ubuntu 14.04 LTS, ```write``` is a … (please select all co
 * [X] system call
 * [ ] kernel routine
 * [ ] game
+
+#### Question #13
+When I am using ```O_WRONLY | O_CREAT | O_APPEND``` -> the | are bitwise operators.
+* [X] True
+* [ ] False
