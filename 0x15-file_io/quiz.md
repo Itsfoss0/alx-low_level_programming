@@ -71,3 +71,14 @@ Which of these answers are the equivalent of ```O_RDWR``` on Ubuntu 14.04 LTS? (
 * [ ] O_RDONLY
 * [X] 3 & 2
 * [ ] (O_RDONLY | O_WRONLY)
+> ### Tips:
+
+>Use printf or read the headers to see the definitions/values of these macros.
+
+#### Question #8
+What is the unistd symbolic constant for the standard input?
+* [ ] STDERR_FILENO
+* [X] STDIN_FILENO
+* [ ] STDOUT_FILENO
+
+
