@@ -81,4 +81,15 @@ What is the unistd symbolic constant for the standard input?
 * [X] STDIN_FILENO
 * [ ] STDOUT_FILENO
 
+#### Question #9
+Most of the time, on a classic, modern Linux system, what will be the value of the first file descriptor you will get after opening a new file with ```open``` (if ```open``` succeeds of course):
+* [ ] 2
+* [ ] 6
+* [ ] 4
+* [ ] 1
+* [ ] 0
+* [ ] 5
+* [X] 3
+
+
 
