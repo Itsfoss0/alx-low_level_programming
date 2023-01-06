@@ -10,3 +10,13 @@ Why? #AlwaysAskWhy
 * [ ] Because this will be the first opened file descriptor and we start counting starting from 1
 * [ ] Because this will be the first opened file descriptor and in CS we start counting starting from 0
 * [ ] Because this will be the third opened file descriptor for my process
+
+#### Question #1
+What happens if you try to write “Best” to the standard input on Ubuntu 14.04 LTS?
+
+* [ ] The text will be printed on the terminal but I can’t pipe it
+* [ ] Segmentation fault
+* [ ] Nothing
+* [X] The text will be printed on the terminal on the standard output
+> #### Tips:
+> Just try it:)
