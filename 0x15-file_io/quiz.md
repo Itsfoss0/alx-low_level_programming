@@ -117,3 +117,9 @@ Without context, on Ubuntu 14.04 LTS, ```write``` is a … (please select all co
 When I am using ```O_WRONLY | O_CREAT | O_APPEND``` -> the | are bitwise operators.
 * [X] True
 * [ ] False
+
+#### Question #14
+What is the ```oflag``` used to open a file with the mode read only?
+* [ ] ```O_RDWR```
+* [ ] ```O_WRONLY```
+* [X] ```O_RDONLY```
