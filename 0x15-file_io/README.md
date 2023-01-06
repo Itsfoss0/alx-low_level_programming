@@ -29,3 +29,6 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] What are file permissions, and how to set them when creating a file with the ```open``` system call
 * [X] What is a system call
 * [X] What is the difference between a function and a system call
+
+## Quizes
+[Quizes](./quiz.md)
