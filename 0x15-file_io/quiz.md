@@ -53,3 +53,21 @@ What is the ```unistd``` symbolic constant for the Standard error?
 * [X] STDERR_FILENO
 * [ ] STDIN_FILENO
 * [ ] STDOUT_FILENO
+
+#### Question #7
+Which of these answers are the equivalent of ```O_RDWR``` on Ubuntu 14.04 LTS? (select all correct answers):
+* [X] 2
+* [X] (O_WRONLY << 1)
+* [ ] 3 | 2
+* [ ] (O_RDONLY << 1)
+* [ ] (O_RDONLY && O_WRONLY)
+* [ ] 0 
+* [ ] 3
+* [ ] O_WRONLY
+* [ ] (O_RDONLY & O_WRONLY)
+* [ ] (O_RDONLY + O_WRONLY)
+* [ ] 1
+* [X] 1 << 1
+* [ ] O_RDONLY
+* [X] 3 & 2
+* [ ] (O_RDONLY | O_WRONLY)
