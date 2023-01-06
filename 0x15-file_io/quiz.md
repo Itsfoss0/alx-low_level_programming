@@ -33,3 +33,11 @@ What system call would you use to write to a file descriptor? (select all correc
 * [X] write
 * [ ] fprint
 * [ ] printf
+
+#### Question #4
+is open a function or a system call? (select all valid answers)
+* [ ] it’s a library call
+* [X] it’s a function
+* [X] it’s a sytem call
+* [ ] it’s a kernel routine
+* [ ] it's a function provided by the kernel
