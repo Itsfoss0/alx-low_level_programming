@@ -27,3 +27,9 @@ What is the ```oflag``` used to open a file in mode read + write?
 * [X] ```O_RDWR```
 * [ ] ```O_WRONLY```
 * [ ] ```O_RDONLY```
+
+#### Question #3
+What system call would you use to write to a file descriptor? (select all correct answers)
+* [X] write
+* [ ] fprint
+* [ ] printf
