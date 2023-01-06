@@ -91,5 +91,10 @@ Most of the time, on a classic, modern Linux system, what will be the value of t
 * [ ] 5
 * [X] 3
 
+#### Question #10
+What is the return value of the system call ```open``` if it fails?
 
+* [ ] 98
+* [ ] 0
+* [X] -1
 
