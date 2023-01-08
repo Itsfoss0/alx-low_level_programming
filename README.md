@@ -26,3 +26,4 @@ Table of contents
 * [Bit manipulation](./0x14-bit_manipulation/)
 * [Doubly Linked lists](/0x17-doubly_linked_lists)
 * [Dynamic Libraries](./0x18-dynamic_libraries)
+* [Hash tables](/0x1A-hash_tables)
