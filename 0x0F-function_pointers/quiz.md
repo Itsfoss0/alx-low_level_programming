@@ -9,3 +9,18 @@ What does a pointer to a function point to (check all correct answers if there i
 * [ ] data
 * [X] code
 * [X] The first byte of code of the function
+
+
+#### Question #1
+To store the address of this function:
+
+```c
+void neyo(void);
+```
+
+to the variable f of type pointer to a function that does not take any argument and does not return anything, you would do (check all correct answers if there is more than one):
+
+* [ ] *f = neyo;
+* [X] f = neyo;
+* [X] f = &neyo;
+* [ ]*f = &neyo;
