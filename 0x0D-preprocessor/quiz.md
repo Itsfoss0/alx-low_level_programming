@@ -89,3 +89,12 @@ What does the macro ```TABLESIZE``` expand to?
 * [ ] nothing
 * [ ] 1020
 * [X] 37
+
+#### Question #10
+This code will try to allocate 1024 bytes in the heap:
+```c
+#define BUFFER_SIZE 1024
+malloc(BUFFER_SIZE)
+```
+* [X] True
+* [ ] False
