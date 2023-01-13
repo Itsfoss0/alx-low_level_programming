@@ -98,3 +98,10 @@ malloc(BUFFER_SIZE)
 ```
 * [X] True
 * [ ] False
+
+#### Question #11
+The preprocessor removes all comments
+
+* [X] True
+* [ ] False
+
