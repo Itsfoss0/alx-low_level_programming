@@ -40,3 +40,15 @@ This portion of code is actually using the library stdlib.
 
 * [X] True
 * [ ] False
+
+#### Question #4
+What is the ```gcc``` option that runs only the preprocessor?
+
+* [ ] -p
+* [ ] -preprocessor
+* [X] -E
+* [ ] -P
+* [ ] -a
+* [ ] -cisfun
+* [ ] -pedantic
+
