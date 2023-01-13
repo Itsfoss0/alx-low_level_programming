@@ -149,3 +149,28 @@ int main(void)
  return (0);
 }
 ```
+
+#### Question #13
+What will be the output of this program? (on a standard 64 bits, Linux machine)
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+#define int char
+
+int main(void)
+{
+    int i;
+
+    i = 5;
+    printf ("sizeof(i) = %lu", sizeof(i));
+    return (EXIT_SUCCESS);
+}
+```
+* [ ] sizeof(i) = 8
+* [X] sizeof(i) = 1
+* [ ] sizeof(i) = 4
+* [ ] It does not compile
+* [ ] Segmentation Fault
+* [ ] sizeof(i) = 5
+
