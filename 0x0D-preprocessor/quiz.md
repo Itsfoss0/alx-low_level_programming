@@ -174,3 +174,8 @@ int main(void)
 * [ ] Segmentation Fault
 * [ ] sizeof(i) = 5
 
+#### Question #14
+The preprocessor links our code with libraries.
+
+* [ ] True
+* [X] False
