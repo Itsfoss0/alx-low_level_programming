@@ -36,3 +36,9 @@ What’s a node? (select all possible answers)
 * [X] It’s a structure with a pointer to the next node and value information
 * [X] It’s a space allocated in memory
 * [ ] It’s an integer
+
+#### Question #4
+In a singly linked list, what are possible directions to traverse it? (select all possible answers)
+
+* [X] Forward
+* [ ] Backward
