@@ -64,3 +64,9 @@ The preprocessor generates object code
 * [ ] True
 * [X] False
 
+#### Question #7
+Why should we use include guards in our header files?
+
+* [ ] Because we said so, and we should never ask why.
+* [X] To avoid the problem of double inclusion when dealing with the include directive.
+
