@@ -27,3 +27,12 @@ What’s the “tail” of a linked list?
 * [X] It’s the node with the pointer to the next equals to NULL
 * [ ] It’s the first node
 * [ ] It’s the node with the lowest value
+
+#### Question #3
+What’s a node? (select all possible answers)
+
+* [ ] It’s a cell in an array
+* [ ] It’s a server
+* [X] It’s a structure with a pointer to the next node and value information
+* [X] It’s a space allocated in memory
+* [ ] It’s an integer
