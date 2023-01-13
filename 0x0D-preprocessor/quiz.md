@@ -58,3 +58,9 @@ The preprocessor generates assembly code
 * [ ] True
 * [X] False
 
+#### Question #6
+The preprocessor generates object code
+
+* [ ] True
+* [X] False
+
