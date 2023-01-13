@@ -33,3 +33,12 @@ Which one is a pointer to a function?
 * [ ] int *func(int a, float b);
 * [ ] (int *)func(int a, float b);
 
+#### Question #4
+This ```void (*anjula[])(int, float)``` is:
+
+* [ ] A pointer to a function that takes an int and a float as parameters and returns an empty array
+* [ ] A pointer to a function that takes an int and a float as parameters and returns nothing
+* [ ] A pointer to a function that takes an array of int and float as a parameter and returns nothing
+* [ ] A pointer to an array of functions that take an int and a float as parameters and returns nothing
+* [X] An array of pointers to functions that take an int and a float as parameters and returns nothing
+
