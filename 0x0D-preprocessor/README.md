@@ -24,3 +24,6 @@ At the end of this session, you should be able to [explain to anyone](https://fs
 * [X] What are macros and how to use them
 * [X] What are the most common predefined macros
 * [X] How to include guard your header files
+
+## Quizes
+[Quiz](./quiz.md)
