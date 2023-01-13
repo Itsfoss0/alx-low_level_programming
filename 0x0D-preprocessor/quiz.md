@@ -105,3 +105,22 @@ The preprocessor removes all comments
 * [X] True
 * [ ] False
 
+#### Question #12
+What will be the last 5 lines of the output of the command ```gcc -E ``` on this code?
+```c
+#include <stdlib.h>
+
+int main(void)
+{
+    NULL;
+    return (EXIT_SUCCESS);
+}
+```
+* [X] 
+```c
+int main(void)
+{
+ ((void *)0);
+ return (0);
+}
+```
