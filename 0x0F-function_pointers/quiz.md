@@ -24,3 +24,12 @@ to the variable f of type pointer to a function that does not take any argument 
 * [X] f = neyo;
 * [X] f = &neyo;
 * [ ]*f = &neyo;
+
+#### Question #3
+Which one is a pointer to a function?
+
+* [X] int (*func)(int a, float b);
+* [ ] int func(int a, float b);
+* [ ] int *func(int a, float b);
+* [ ] (int *)func(int a, float b);
+
