@@ -124,3 +124,28 @@ int main(void)
  return (0);
 }
 ```
+
+* [ ]
+```c
+int main(void)
+{
+ 0;
+ return (0);
+}
+```
+* [ ]
+```c
+int main()
+{
+ 0;
+ return (0);
+}
+```
+* [ ]
+```c
+int main(void)
+{
+ '\0';
+ return (0);
+}
+```
