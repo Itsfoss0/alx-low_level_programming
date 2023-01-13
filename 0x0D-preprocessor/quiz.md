@@ -26,3 +26,11 @@ The macro ```__FILE__``` expands to the name of the current input file, in the f
 
 * [X] True
 * [ ] False
+
+#### Question #1
+This portion of code is actually using the library stdlib.
+```c
+#include <stdlib.h>
+```
+* [ ] True
+* [X] False
