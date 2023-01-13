@@ -26,10 +26,8 @@ Non Linear Data strucutes on the other hand are Data structures where data eleme
 ## Learnig objectives 
 After going through the above resource, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of google the following. 
 
-<details>
-<summary>Learning objectives</summary>
-<ul>
-<li>When and why using linked lists vs arrays</li>
-<li>How to build and use linked lists</li>
-</ul>
-</details>
+* [X] When and why using linked lists vs arrays
+* [X] How to build and use linked lists
+
+## Quiz
+[Quizes](./quiz.md)
