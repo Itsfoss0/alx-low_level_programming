@@ -78,4 +78,14 @@ What are the steps of compilation?
 * [ ] 1.compiler 2. preprocessor 3. assembler 4. linker
 * [X] 1.preprocessor 2.compiler 3. assembler 4. linker
 
-
+#### Question #9
+What does the macro ```TABLESIZE``` expand to?
+```c
+#define BUFSIZE 1020
+#define TABLESIZE BUFSIZE
+#undef BUFSIZE
+#define BUFSIZE 37
+```
+* [ ] nothing
+* [ ] 1020
+* [X] 37
