@@ -20,3 +20,9 @@ This is the correct way to define the macro SUB:
 ```c
     #define SUB(a, b) ((a) - (b))
 ```
+
+#### Question #1
+The macro ```__FILE__``` expands to the name of the current input file, in the form of a C string constant.
+
+* [X] True
+* [ ] False
