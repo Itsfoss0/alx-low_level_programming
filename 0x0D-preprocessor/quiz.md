@@ -34,3 +34,9 @@ This portion of code is actually using the library stdlib.
 ```
 * [ ] True
 * [X] False
+
+#### Question #3
+```NULL``` is a macro
+
+* [X] True
+* [ ] False
