@@ -70,3 +70,12 @@ Why should we use include guards in our header files?
 * [ ] Because we said so, and we should never ask why.
 * [X] To avoid the problem of double inclusion when dealing with the include directive.
 
+
+#### Question #8
+What are the steps of compilation?
+
+* [ ] 1.preprocessor 2.compiler 3. linker 4. assembler
+* [ ] 1.compiler 2. preprocessor 3. assembler 4. linker
+* [X] 1.preprocessor 2.compiler 3. assembler 4. linker
+
+
