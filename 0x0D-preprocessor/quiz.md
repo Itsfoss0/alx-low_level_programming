@@ -52,3 +52,9 @@ What is the ```gcc``` option that runs only the preprocessor?
 * [ ] -cisfun
 * [ ] -pedantic
 
+#### Question #5
+The preprocessor generates assembly code
+
+* [ ] True
+* [X] False
+
