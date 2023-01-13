@@ -19,3 +19,11 @@ What’s the “head” of a linked list?
 * [ ] It’s the node with the highest value
 * [ ] It’s the node with the pointer to the next equals to NULL
 * [ ] It’s the node with the lowest value
+
+#### Question #2
+What’s the “tail” of a linked list?
+
+* [ ] It’s the node with the highest value
+* [X] It’s the node with the pointer to the next equals to NULL
+* [ ] It’s the first node
+* [ ] It’s the node with the lowest value
