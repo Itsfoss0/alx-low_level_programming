@@ -25,3 +25,6 @@ At the end of this session, you should be able to [explain to anyone](https://fs
 * [X] What are function pointers and how to use them
 * [X] What does a function pointer exactly hold
 * [X] Where does a function pointer point to in the virtual memory
+
+## Quizes
+[Quiz](./quiz.md)
