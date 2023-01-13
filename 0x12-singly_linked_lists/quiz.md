@@ -1,6 +1,7 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 > Singly linked lists quizes
 
+#### Question #0
 Arrays Vs Linked Lists: select all true statements
 * [X] Memory is aligned for an Array - each elements are back to back in the memory
 * [ ] We can easily remove an element from an Array
@@ -10,3 +11,11 @@ Arrays Vs Linked Lists: select all true statements
 * [X] We can add elements indefinitely to a linked list
 * [X] We can easily removed an element from a Linked list
 * [X] Array can contain as value a structure
+
+#### Question #1
+What’s the “head” of a linked list?
+* [X] It’s the first node
+* [ ] It’s the last node
+* [ ] It’s the node with the highest value
+* [ ] It’s the node with the pointer to the next equals to NULL
+* [ ] It’s the node with the lowest value
