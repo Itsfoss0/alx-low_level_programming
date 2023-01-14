@@ -52,3 +52,9 @@ If I want to copy the string “Best School” into a new space in memory, I can
 * [ ] malloc(strlen(“Best School”))
 * [X] malloc(sizeof(“Best School”))
 * [X] malloc(12)
+
+#### Question ####4
+malloc returns a pointer
+
+* [X] True
+* [ ] False
