@@ -42,3 +42,22 @@ You should write documentation for all the structures you create
 * [X] As soon as I write my structure.
 * [X] True
 * [ ] I’ll do it 5 minutes before the deadline when I try Betty on my header file
+
+
+#### Question #3
+Given this code
+
+```c
+struct point {
+   int x;
+   int y;
+};
+struct point my_point = { 3, 7 };
+struct point *p = &my_point;
+```
+To set the member y of my variable my_point to 98, I can do (select all valid answers):
+* [ ] p.y = 98;
+* [X] my_point.y = 98;
+* [ ] my_point->y = 98;
+* [X] p->y = 98;
+* [X] (*p).y = 98;
