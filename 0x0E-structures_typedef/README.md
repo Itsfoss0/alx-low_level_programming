@@ -21,3 +21,6 @@ At the end of this session, you should be able to [explain to anyone](https://fs
 
 * [X] What are structures, when, why and how to use them
 * [X] How to use typedef
+
+## Quizes
+[Quiz](./quiz.md)
