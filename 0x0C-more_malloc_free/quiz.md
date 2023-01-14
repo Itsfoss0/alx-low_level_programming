@@ -19,3 +19,16 @@ int cp(void)
 * [X] There is no comment
 * [X] ```malloc``` can fail so we should check its return value all the time before using the pointers returned by the function.
 
+#### Question #1
+You can do this
+```c
+char *s;
+
+s = strdup("Best School");
+if (s != NULL)
+{
+    free(s);
+}
+```
+* [X] Yes
+* [ ] No
