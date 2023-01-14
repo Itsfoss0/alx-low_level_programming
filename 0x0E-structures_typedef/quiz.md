@@ -13,3 +13,25 @@ struct tag_name {
 * [ ] Maybe
 * [X] True
 * [ ] False
+
+#### Question #1
+Those two codes do the same thing:
+```c
+typedef struct point point;
+struct point {
+   int    x;
+   int    y;
+};
+point p = {1, 2};
+```
+```c
+typedef struct point point;
+struct point {
+   int    x;
+   int    y;
+};
+point p = { .y = 2, .x = 1 };
+```
+* [ ] False: the members of the structures will not have the same values
+* [X] True
+* [ ] False: the second does not compile
