@@ -65,3 +65,22 @@ To allocate enough space for an array of 10 integers (on a 64bit, Linux machine)
 * [X] malloc(10 * sizeof(int))
 * [ ] malloc(64 * 10)
 * [ ] malloc(10 * int)
+
+#### Question #6
+What will you see on the terminal?
+```c
+int main(void)
+{
+    int *ptr;
+
+    *ptr = 98;
+    printf("%d\n", *ptr);
+    return (0);
+}
+```
+* [ ] It does not compile
+* [ ] 0
+* [ ] 98
+* [X] Segmentation fault. 
+> ### Tip
+> Atempting to dereference an unitialized pointer or pointer pointing to an undefined memmory location will cuase a segmentation fault. 
