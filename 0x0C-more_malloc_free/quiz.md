@@ -53,8 +53,15 @@ If I want to copy the string “Best School” into a new space in memory, I can
 * [X] malloc(sizeof(“Best School”))
 * [X] malloc(12)
 
-#### Question ####4
+#### Question #4
 malloc returns a pointer
 
 * [X] True
 * [ ] False
+
+#### Question #5
+To allocate enough space for an array of 10 integers (on a 64bit, Linux machine), I can use:
+
+* [X] malloc(10 * sizeof(int))
+* [ ] malloc(64 * 10)
+* [ ] malloc(10 * int)
