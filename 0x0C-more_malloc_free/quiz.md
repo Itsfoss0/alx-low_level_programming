@@ -84,3 +84,11 @@ int main(void)
 * [X] Segmentation fault. 
 > ### Tip
 > Atempting to dereference an unitialized pointer or pointer pointing to an undefined memmory location will cuase a segmentation fault. 
+
+#### Question #7
+You can do this
+```c
+free("Best School");
+```
+* [ ] Yes
+* [X] No
