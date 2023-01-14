@@ -20,7 +20,7 @@ int cp(void)
 * [X] ```malloc``` can fail so we should check its return value all the time before using the pointers returned by the function.
 
 #### Question #1
-You can do this
+You can do this:
 ```c
 char *s;
 
@@ -32,3 +32,13 @@ if (s != NULL)
 ```
 * [X] Yes
 * [ ] No
+
+#### Question #2
+You can do this:
+```c
+char str[] = "Best School";
+
+free (str);
+```
+* [ ] Yes
+* [X] No
