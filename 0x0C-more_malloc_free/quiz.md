@@ -42,3 +42,13 @@ free (str);
 ```
 * [ ] Yes
 * [X] No
+
+#### Question #3
+If I want to copy the string “Best School” into a new space in memory, I can use this statement to reserve enough space for it (select all valid answers):
+
+* [ ] malloc(11)
+* [X] malloc(strlen(“Best School”) + 1)
+* [ ] malloc(sizeof(“Best School”) + 1)
+* [ ] malloc(strlen(“Best School”))
+* [X] malloc(sizeof(“Best School”))
+* [X] malloc(12)
