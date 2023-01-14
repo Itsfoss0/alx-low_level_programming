@@ -35,3 +35,10 @@ point p = { .y = 2, .x = 1 };
 * [ ] False: the members of the structures will not have the same values
 * [X] True
 * [ ] False: the second does not compile
+
+#### Question #2
+You should write documentation for all the structures you create
+
+* [X] As soon as I write my structure.
+* [X] True
+* [ ] I’ll do it 5 minutes before the deadline when I try Betty on my header file
