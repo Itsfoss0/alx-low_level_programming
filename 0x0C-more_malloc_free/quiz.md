@@ -92,3 +92,8 @@ free("Best School");
 ```
 * [ ] Yes
 * [X] No
+
+#### Question #8
+The memory space reserved when calling ```malloc``` is on:
+* [ ] The stack
+* [X] The heap
