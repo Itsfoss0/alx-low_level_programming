@@ -97,3 +97,9 @@ free("Best School");
 The memory space reserved when calling ```malloc``` is on:
 * [ ] The stack
 * [X] The heap
+
+#### Question #9
+malloc returns an address
+
+* [ ] False
+* [X] True
