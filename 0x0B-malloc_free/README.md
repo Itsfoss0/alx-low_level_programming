@@ -1,9 +1,11 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 > Dynamic memory allocation 
 
-## Intro 
- Dynamic memory allocation using malloc and free in C
+![meme](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG)
 
+## Intro 
+ Dynamic memory allocation is an important concept in C programming, allowing for efficient use of memory by allocating and freeing memory as needed. In this blog post, we will explore the use of the malloc function to dynamically allocate memory in C, including examples and best practices for proper usage
+ 
 ## About 
 In this session, we well conver dyanamic memory allocation in C, why is it important and how is it implemted.
 Buckle up, its gonna be a long rideee!!!!
