@@ -34,3 +34,11 @@ int *p = &n;
 * [ ] 0
 * [X] 98
 * [ ] 402
+
+#### Question #3
+What happens when one tries to access an illegal memory location?
+
+* [ ] The computer shuts down
+* [ ] The operation is ignored
+* [X] Segmentation fault
+* [ ] There’s a chance for the computer to catch fire, and sometimes even explode
