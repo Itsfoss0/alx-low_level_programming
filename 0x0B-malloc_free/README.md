@@ -5,10 +5,10 @@
 
 ## Intro 
  Dynamic memory allocation is an important concept in C programming, allowing for efficient use of memory by allocating and freeing memory as needed. In this blog post, we will explore the use of the malloc function to dynamically allocate memory in C, including examples and best practices for proper usage
- 
+
 ## About 
-In this session, we well conver dyanamic memory allocation in C, why is it important and how is it implemted.
-Buckle up, its gonna be a long rideee!!!!
+In this session, we well cover dyanamic memory allocation in C, why is it important and how it is implemted.
+Buckle up, it might get bumpy!!
 
 ## Resources 
 1. [Dyamic memory alloation overview](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/a094c90e7f466bbeaa49cb24c8f04e7f27aaad41.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221014T190316Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2bc8065b92c043249914c3bcec07899997842025ce5bd687508d77fafcda9bc3)
@@ -30,4 +30,7 @@ After going through the above resources, you should be able to [explain to anyon
 * [X] How to use valgrind to check for memory leak
 
 ## More info
-You can learn about calloc and realloc.
+You can learn about ```calloc``` and ```realloc```.
+
+## Quizes
+[Quiz](./quiz.md)
