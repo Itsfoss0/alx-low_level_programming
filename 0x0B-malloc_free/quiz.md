@@ -8,10 +8,18 @@ We declare the following variable
 int arr[5];
 ```
 What is the size in memory of the variable ```arr```?
-* [X] 8 bytes
+* [ ] 8 bytes
 * [x] 20 bytes
-* [X] 32 bytes
-* [X] 5 bytes
-* [X] 4 bytes
+* [ ] 32 bytes
+* [ ] 5 bytes
+* [ ] 4 bytes
+* [ ] 10 bytes
 
-10 bytes
+#### Question #1
+The process of getting the value that is stored in the memory location pointed to by a pointer is called:
+
+* [X] Dereferencing
+* [ ] Pointing
+* [ ] Accessing
+* [ ] Casting
+
