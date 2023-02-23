@@ -27,3 +27,4 @@ Table of contents
 * [Doubly Linked lists](/0x17-doubly_linked_lists)
 * [Dynamic Libraries](./0x18-dynamic_libraries)
 * [Hash tables](/0x1A-hash_tables)
+* [Makefiles](/0x1C-makefiles)
