@@ -42,3 +42,6 @@ What happens when one tries to access an illegal memory location?
 * [ ] The operation is ignored
 * [X] Segmentation fault
 * [ ] There’s a chance for the computer to catch fire, and sometimes even explode
+
+
+#### Question #4
