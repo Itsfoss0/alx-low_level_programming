@@ -1,7 +1,7 @@
 #!/usr/bin/env make
 # Makefile with variables
 
-CC := gcc
-SRC := main.c school.c
+CC = gcc
+SRC = main.c school.c
 all:
 	@$(CC) $(SRC) -o school
