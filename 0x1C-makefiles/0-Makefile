@@ -1,0 +1,5 @@
+#!/usr/bin/env make
+# first makefile
+
+all: main.c school.c m.h
+	@gcc main.c school.c -o school
