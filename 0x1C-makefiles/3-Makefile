@@ -1,12 +1,18 @@
 #!/usr/bin/env make
 # make file with PHONY targets
 
+#phony targets
+.PHONY: clean
+.PHONY: oclean
+.PHONY: fclean
+.PHONY: re
+
 #variables
 CC = gcc
 SRC = main.c school.c
 OBJ = $(SRC:.c=.o)
 NAME = school
-RM = 
+RM = fclean
 
 #targets
 all: $(SRC) $(OBJ)
