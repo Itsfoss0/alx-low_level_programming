@@ -15,7 +15,7 @@ NAME = school
 RM = rm -f 
 
 #targets
-all: $(SRC) $(OBJ)
+all: $(OBJ)
 	@$(CC) $(OBJ) -o $(NAME)
 clean:
 	$(RM) *.~ *.# $(NAME)
