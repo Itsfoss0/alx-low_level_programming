@@ -17,11 +17,13 @@ RM = rm -f
 #targets
 all: $(OBJ)
 	@$(CC) $(OBJ) -o $(NAME)
+
 clean:
 	$(RM) *.~ *.# $(NAME)
+
 oclean:
 	$(RM)  *.o
-fclean:
-	$(RM) *.~ *.# $(NAME) *.o
-re:
-	$(CC) $(SRC) -o $(NAME) 
+
+fclean:clean oclean
+
+re: fclean all
