@@ -2,7 +2,7 @@
 #first 'useful' Makefile
 
 CC = gcc
-SRC = $(wildcard *.c)
+SRC = school.c main.c
 OBJ = $(SRC:.c=.o)
 NAME = school
 
