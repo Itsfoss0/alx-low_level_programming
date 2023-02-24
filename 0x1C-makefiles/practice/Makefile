@@ -13,3 +13,4 @@ show_variables: file.txt
 
 file.txt:
 	touch file.txt
+	@echo $(shell whoami)
