@@ -2,10 +2,10 @@
 # make file with PHONY targets
 
 #phony targets
-# .PHONY: clean
-# .PHONY: oclean
-# .PHONY: fclean
-# .PHONY: re
+.PHONY: clean
+.PHONY: oclean
+.PHONY: fclean
+.PHONY: re
 
 #variables
 CC = gcc
@@ -14,6 +14,7 @@ OBJ = $(SRC:.c=.o)
 NAME = school
 RM = rm -f
 
+#targets
 all: $(OBJ)
 	$(CC) $(OBJ) -o $(NAME)
 
