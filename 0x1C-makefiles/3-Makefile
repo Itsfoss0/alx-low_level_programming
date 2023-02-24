@@ -2,10 +2,10 @@
 # make file with PHONY targets
 
 #phony targets
-.PHONY: clean
-.PHONY: oclean
-.PHONY: fclean
-.PHONY: re
+# .PHONY: clean
+# .PHONY: oclean
+# .PHONY: fclean
+# .PHONY: re
 
 #variables
 CC = gcc
