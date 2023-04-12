@@ -28,3 +28,4 @@ Table of contents
 * [Dynamic Libraries](./0x18-dynamic_libraries)
 * [Hash tables](/0x1A-hash_tables)
 * [Makefiles](/0x1C-makefiles)
+* [Searching algorithms](0x1E-search_algorithms)
